@@ -1,0 +1,15 @@
+fileversion=2
+ps_name=Sweetcase EP
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST3\Sweetcase EP.fst
+ps_files=1
+ps_file_name_0=Sweetcase EP
+ps_file_filename_0=C:\Program Files\Common Files\VST3\Sweetcase EP.vst3
+ps_file_plugclass_0=8
+ps_file_type_0=2
+ps_file_bitsize_0=64
+ps_file_guid_0={56535453-7763-6673-7765-657463617365}
+ps_file_date_0=4676403915693080843
+ps_file_size_0=32146944
+ps_file_scanflags_0=1
+ps_file_vendorname_0=NoiseAsh Audio
+ps_file_category_0=Instrument|Synth

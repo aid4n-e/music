@@ -1,0 +1,16 @@
+fileversion=2
+ps_name=Youlean Loudness Meter 2
+ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST\Youlean Loudness Meter 2.fst
+ps_files=1
+ps_file_name_0=Youlean Loudness Meter 2
+ps_file_filename_0=%FLPath%\Plugins\Downloaded\LUFS\Youlean Loudness Meter 2.dll
+ps_file_plugclass_0=0
+ps_file_type_0=1
+ps_file_bitsize_0=64
+ps_file_magic_0=1970430553
+ps_file_guid_0={56535475-7262-5979-6F75-6C65616E206C}
+ps_file_date_0=4676435161499234105
+ps_file_size_0=12870280
+ps_file_scanflags_0=1
+ps_file_vendorname_0=Youlean
+ps_file_category_0=effect

@@ -1,0 +1,11 @@
+fileversion=2
+ps_name=APC_2
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\APC_2.fst
+ps_files=1
+ps_file_name_0=APC
+ps_file_filename_0=%FLPath%\Plugins\Downloaded\APC.dll
+ps_file_plugclass_0=0
+ps_file_bitsize_0=64
+ps_file_date_0=4676156258560305179
+ps_file_size_0=9257472
+ps_file_scanflags_0=34

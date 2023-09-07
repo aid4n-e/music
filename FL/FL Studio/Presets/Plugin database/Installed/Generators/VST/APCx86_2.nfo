@@ -1,0 +1,11 @@
+fileversion=2
+ps_name=APCx86_2
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\APCx86_2.fst
+ps_files=1
+ps_file_name_0=APCx86
+ps_file_filename_0=%FLPath%\Plugins\Downloaded\APCx86.dll
+ps_file_plugclass_0=0
+ps_file_bitsize_0=32
+ps_file_date_0=4676156258732103871
+ps_file_size_0=8359424
+ps_file_scanflags_0=34

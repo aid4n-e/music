@@ -1,0 +1,15 @@
+fileversion=2
+ps_name=Melodyne
+ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST3\Melodyne.fst
+ps_files=1
+ps_file_name_0=Melodyne
+ps_file_filename_0=C:\Program Files\Common Files\VST3\Celemony\Melodyne\Melodyne.vst3
+ps_file_plugclass_0=7
+ps_file_type_0=1
+ps_file_bitsize_0=64
+ps_file_guid_0={5653544D-6C70-676D-656C-6F64796E6520}
+ps_file_date_0=4676303848974401172
+ps_file_size_0=1304048
+ps_file_scanflags_0=1
+ps_file_vendorname_0=Celemony
+ps_file_category_0=Fx
