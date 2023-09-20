@@ -1,73 +1,0 @@
-E:\Desktop\Documents\Image-Line\FL Studio\Support\Logs\Startup\Startup 2023-08-27_162404.log
-HostVersion=1 Flags=00000000
-FL Studio v20.6.2.1549
-BeforeRunning
-Starting at 4:24:04 PM64Bit addressing mode3DNow! support: noSSE    support: yesSSE2   support: yesSSE3   support: yesSSSE3  support: yesAVX    support: yesTouchscreen not availableMain GUI scaling factor: 1 (system set to 96PPI)Temporary folder for this session:C:\Users\Aidan\AppData\Local\Temp\Image-Line\{848B35EA-6372-4988-B9D2-31765ECB3D68}\---
-ReadIniFile
-  Restore window state
-  Restore settings window
-    Assigned(MIDIForm) = 
-  Read various options
-  Read more options
-  Load MRU list
-  Restore more window settings
-Animation timer set to 12ms, vsync enabled
-  Read audio options
-  Update tools menu
-  Init things
-Mixer track map: 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125---
-Mixer threading map rebuilt: 1 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125---
-Opening ASIO driver: FL Studio ASIO version 1Buffer length: 1024 framesIn/out latency: 3168/3402 framesTime out: 42ms (1852 frames)---
-Opening MIDI output devices
-Opening MIDI input devices
-Loading FLP file: E:\Program Files\FL Studio\Data\System\PreviewTrack.fst
-Loading project: version 4.5.4
----
-  Update browser
-  Update channel rack
-  Update toolbars and stuff
-  Restore settings for most windows
-  Init DWM
-Loading FLP file: E:\Program Files\FL Studio\Data\System\Empty.flp
-Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
-Mixer threading map rebuilt: 2 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 1 unit(s)      Unit 1: track(s) 0---
-Loading project: version 9.6.0
----
-Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,100,101,102,103,0---
-Mixer threading map rebuilt: 3 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 1 unit(s)      Unit 1: track(s) 100,101,102,103   Layer 3: 1 unit(s)      Unit 1: track(s) 0---
-ReadIniFile - end
-ProcessFirstTimeStuff
-Clear playlist and create new project
-Loading FLP file: E:\Desktop\Documents\Image-Line\FL Studio\Projects\Templates\Jazz.flp
-Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
-Mixer threading map rebuilt: 2 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 1 unit(s)      Unit 1: track(s) 0---
-Loading project: version 20.6.2.1549
-Threaded generator(s): 1
-Threaded generator(s): 0
-Threaded generator(s): 1
-Wrapper says: Create VST plugin: file="e:\program files\fl studio\Plugins\Downloaded\SPAN.dll" id=4vo6
-Wrapper says: Create VST plugin: file="e:\program files\fl studio\Plugins\Downloaded\LUFS\Youlean Loudness Meter 2.dll" id=urbY
----
-Mixer track map: 1,2,3,4,5,6,7,8,9,11,13,14,15,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,123,124,125,10,120,17,18,12,121,122,0---
-Mixer threading map rebuilt: 7 layer(s)   Layer 1: 13 unit(s)      Unit 1: track(s) 1      Unit 2: track(s) 2,3      Unit 3: track(s) 4      Unit 4: track(s) 5,6      Unit 5: track(s) 7      Unit 6: track(s) 8      Unit 7: track(s) 9      Unit 8: track(s) 11      Unit 9: track(s) 13      Unit 10: track(s) 14      Unit 11: track(s) 15      Unit 12: track(s) 16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,123,124      Unit 13: track(s) 125   Layer 2: 1 unit(s)      Unit 1: track(s) 10,120   Layer 3: 1 unit(s)      Unit 1: track(s) 17   Layer 4: 1 unit(s)      Unit 1: track(s) 18   Layer 5: 1 unit(s)      Unit 1: track(s) 12,121   Layer 6: 1 unit(s)      Unit 1: track(s) 122   Layer 7: 1 unit(s)      Unit 1: track(s) 0---
-Mixer track map: 1,2,3,4,5,6,7,8,9,11,13,14,15,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,123,124,125,10,120,17,18,12,121,122,0---
-Mixer threading map rebuilt: 7 layer(s)   Layer 1: 13 unit(s)      Unit 1: track(s) 1      Unit 2: track(s) 2,3      Unit 3: track(s) 4      Unit 4: track(s) 5,6      Unit 5: track(s) 7      Unit 6: track(s) 8      Unit 7: track(s) 9      Unit 8: track(s) 11      Unit 9: track(s) 13      Unit 10: track(s) 14      Unit 11: track(s) 15      Unit 12: track(s) 16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,123,124      Unit 13: track(s) 125   Layer 2: 1 unit(s)      Unit 1: track(s) 10,120   Layer 3: 1 unit(s)      Unit 1: track(s) 17   Layer 4: 1 unit(s)      Unit 1: track(s) 18   Layer 5: 1 unit(s)      Unit 1: track(s) 12,121   Layer 6: 1 unit(s)      Unit 1: track(s) 122   Layer 7: 1 unit(s)      Unit 1: track(s) 0---
-Opening ASIO driver: FL Studio ASIO version 1Buffer length: 1024 framesIn/out latency: 3168/3402 framesTime out: 42ms (1852 frames)---
-Play startup sound
-Startup took 31221 milliseconds.
-App deactivate - first time = 0
-Loading FLP file: E:\Desktop\Documents\Image-Line\FL Studio\Projects\lab.flp
-Threaded generator(s): 0
-Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
-Mixer threading map rebuilt: 2 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 1 unit(s)      Unit 1: track(s) 0---
-Loading project: version 20.6.2.1549
-Threaded generator(s): 1
-Threaded generator(s): 0
-Threaded generator(s): 1
-Wrapper says: Create VST plugin: file="e:\program files\fl studio\Plugins\Downloaded\SPAN.dll" id=4vo6
-Wrapper says: Create VST plugin: file="e:\program files\fl studio\Plugins\Downloaded\LUFS\Youlean Loudness Meter 2.dll" id=urbY
----
-Mixer track map: 1,2,3,4,5,6,7,8,9,11,13,14,15,16,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,123,124,125,10,19,120,17,18,12,121,122,0---
-Mixer threading map rebuilt: 7 layer(s)   Layer 1: 13 unit(s)      Unit 1: track(s) 1      Unit 2: track(s) 2,3      Unit 3: track(s) 4      Unit 4: track(s) 5,6      Unit 5: track(s) 7      Unit 6: track(s) 8      Unit 7: track(s) 9      Unit 8: track(s) 11      Unit 9: track(s) 13      Unit 10: track(s) 14      Unit 11: track(s) 15      Unit 12: track(s) 16,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,123,124      Unit 13: track(s) 125   Layer 2: 2 unit(s)      Unit 1: track(s) 10      Unit 2: track(s) 19,120   Layer 3: 1 unit(s)      Unit 1: track(s) 17   Layer 4: 1 unit(s)      Unit 1: track(s) 18   Layer 5: 1 unit(s)      Unit 1: track(s) 12,121   Layer 6: 1 unit(s)      Unit 1: track(s) 122   Layer 7: 1 unit(s)      Unit 1: track(s) 0---
-BeforeRunning - end
-End of startup log
