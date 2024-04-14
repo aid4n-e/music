@@ -1,4 +1,3 @@
-
 *.kik
 *.dmkit
 *.dmpatch
@@ -9,7 +8,5 @@
 *.gmsynth
 *.gmsynth
 *.log
-FL/FL Studio/Projects/Backup/2am57 (overwritten at 19h23)_2.flp
-FL/FL Studio/Projects/Backup/2am57 (overwritten at 19h23).flp
-FL/FL Studio/Projects/Backup/257 (overwritten at 23h04).flp
-FL/FL Studio/Projects/Backup/257 (autosaved at 23h14).flp
+/FL/FL Studio/Settings
+/FL/FL Studio/Projects/Backup
