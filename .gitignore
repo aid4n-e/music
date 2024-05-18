@@ -10,3 +10,7 @@
 *.log
 /FL/FL Studio/Settings
 /FL/FL Studio/Projects/Backup
+/FL/FL Studio/Settings/Internet
+*.scr
+*.rss
+*.xml

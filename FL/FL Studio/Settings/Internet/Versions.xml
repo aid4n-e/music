@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?><ilversioninfo><item>
               <guid>297</guid>
               <os>windows</os>
-              <pubDate>2019-03-20 13:44:47.515601+01</pubDate>
+              <pubDate>2023-11-27 14:30:26.022553+01</pubDate>
               <publicid>37041696969</publicid>
               <title>Sytrus FLVSTi/DXi (Groupbuy)</title>
               <name></name>
@@ -13,55 +13,55 @@
             </item><item>
               <guid>320</guid>
               <os>macosx</os>
-              <pubDate>2023-09-04 13:10:51.056334+02</pubDate>
+              <pubDate>2024-02-08 13:44:20.428922+01</pubDate>
               <publicid>31020</publicid>
               <title>FL Studio Producer Edition</title>
               <name></name>
-              <version>21.1.1.3318</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.1.1.3318.dmg</download_url>
+              <version>21.2.3.3586</version>
+              <versionDate>2024-02-08</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.2.3.3586.dmg</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>1197126086</filesize>
+              <filesize>1189428789</filesize>
             </item><item>
               <guid>320</guid>
               <os>windows</os>
-              <pubDate>2023-09-04 13:11:41.63982+02</pubDate>
+              <pubDate>2024-02-08 13:48:45.431892+01</pubDate>
               <publicid>31020</publicid>
               <title>FL Studio Producer Edition</title>
               <name></name>
-              <version>21.1.1.3750</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.1.1.3750.exe</download_url>
+              <version>21.2.3.4004</version>
+              <versionDate>2024-02-06</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.2.3.4004.exe</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>970597144</filesize>
+              <filesize>975209152</filesize>
             </item><item>
               <guid>321</guid>
               <os>macosx</os>
-              <pubDate>2023-09-04 13:10:51.056334+02</pubDate>
+              <pubDate>2024-02-08 13:44:20.428922+01</pubDate>
               <publicid>31010</publicid>
               <title>FL Studio Fruity Edition</title>
               <name></name>
-              <version>21.1.1.3318</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.1.1.3318.dmg</download_url>
+              <version>21.2.3.3586</version>
+              <versionDate>2024-02-08</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.2.3.3586.dmg</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>1197126086</filesize>
+              <filesize>1189428789</filesize>
             </item><item>
               <guid>321</guid>
               <os>windows</os>
-              <pubDate>2023-09-04 13:11:41.63982+02</pubDate>
+              <pubDate>2024-02-08 13:48:45.431892+01</pubDate>
               <publicid>31010</publicid>
               <title>FL Studio Fruity Edition</title>
               <name></name>
-              <version>21.1.1.3750</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.1.1.3750.exe</download_url>
+              <version>21.2.3.4004</version>
+              <versionDate>2024-02-06</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.2.3.4004.exe</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>970597144</filesize>
+              <filesize>975209152</filesize>
             </item><item>
               <guid>338</guid>
               <os>windows</os>
-              <pubDate>2017-04-21 17:21:04.744023+02</pubDate>
+              <pubDate>2023-11-27 14:29:50.504343+01</pubDate>
               <publicid>33000</publicid>
               <title>DrumSynth Live (FL/VSTi)</title>
               <name>DrumSynth Live</name>
@@ -73,7 +73,7 @@
             </item><item>
               <guid>339</guid>
               <os>windows</os>
-              <pubDate>2014-02-14 14:20:01.059413+01</pubDate>
+              <pubDate>2023-11-27 14:27:49.597475+01</pubDate>
               <publicid>33110</publicid>
               <title>SimSynth Live (FL/VSTi)</title>
               <name>SimSynth</name>
@@ -85,7 +85,7 @@
             </item><item>
               <guid>340</guid>
               <os>windows</os>
-              <pubDate>2014-02-17 13:56:35.423006+01</pubDate>
+              <pubDate>2023-11-27 14:25:32.636158+01</pubDate>
               <publicid>33300</publicid>
               <title>WASP &amp; WASP XT (FL/VSTi)</title>
               <name>Wasp</name>
@@ -97,7 +97,7 @@
             </item><item>
               <guid>343</guid>
               <os>windows</os>
-              <pubDate>2014-02-14 14:00:01.834156+01</pubDate>
+              <pubDate>2023-11-27 14:29:45.601332+01</pubDate>
               <publicid>37020</publicid>
               <title>DX-10 (FL/VSTi)</title>
               <name>DX10</name>
@@ -109,7 +109,7 @@
             </item><item>
               <guid>344</guid>
               <os>windows</os>
-              <pubDate>2014-02-17 14:56:06.906816+01</pubDate>
+              <pubDate>2023-11-27 15:47:10.997157+01</pubDate>
               <publicid>37030</publicid>
               <title>Soundfont Player (FL Studio Only)</title>
               <name>Soundfont Player</name>
@@ -121,7 +121,7 @@
             </item><item>
               <guid>346</guid>
               <os>windows</os>
-              <pubDate>2014-02-17 14:56:09.634257+01</pubDate>
+              <pubDate>2023-11-27 15:47:15.145481+01</pubDate>
               <publicid>37050</publicid>
               <title>Fruity Video Player (FL Studio Only)</title>
               <name>VideoPlayer</name>
@@ -133,7 +133,7 @@
             </item><item>
               <guid>350</guid>
               <os>windows</os>
-              <pubDate>2019-03-20 13:44:47.515601+01</pubDate>
+              <pubDate>2023-11-27 14:30:26.022553+01</pubDate>
               <publicid>37041</publicid>
               <title>Sytrus VSTi/DXi</title>
               <name></name>
@@ -145,7 +145,7 @@
             </item><item>
               <guid>351</guid>
               <os>windows</os>
-              <pubDate>2014-05-15 15:47:55.265206+02</pubDate>
+              <pubDate>2023-11-27 14:30:11.61576+01</pubDate>
               <publicid>37061</publicid>
               <title>DirectWave VSTi</title>
               <name>DirectWave</name>
@@ -157,7 +157,7 @@
             </item><item>
               <guid>352</guid>
               <os>windows</os>
-              <pubDate>2017-04-21 17:26:23.084113+02</pubDate>
+              <pubDate>2023-11-27 14:28:56.370874+01</pubDate>
               <publicid>37010</publicid>
               <title>Juice Pack (VST)</title>
               <name>Juice Pack</name>
@@ -169,7 +169,7 @@
             </item><item>
               <guid>353</guid>
               <os>windows</os>
-              <pubDate>2014-02-14 14:00:01.834156+01</pubDate>
+              <pubDate>2023-11-27 14:29:45.601332+01</pubDate>
               <publicid>37021</publicid>
               <title>DX-10 VSTi/DXi</title>
               <name>DX10</name>
@@ -181,7 +181,7 @@
             </item><item>
               <guid>354</guid>
               <os>windows</os>
-              <pubDate>2014-02-14 14:20:01.059413+01</pubDate>
+              <pubDate>2023-11-27 14:27:49.597475+01</pubDate>
               <publicid>37110</publicid>
               <title>SimSynth VSTi/DXi</title>
               <name>SimSynth</name>
@@ -193,7 +193,7 @@
             </item><item>
               <guid>355</guid>
               <os>windows</os>
-              <pubDate>2014-02-17 13:56:35.423006+01</pubDate>
+              <pubDate>2023-11-27 14:25:32.636158+01</pubDate>
               <publicid>37310</publicid>
               <title>WASP &amp; WASP XT VSTi/DXi</title>
               <name>Wasp</name>
@@ -205,7 +205,7 @@
             </item><item>
               <guid>394</guid>
               <os>macosx</os>
-              <pubDate>2014-07-04 15:01:21.295001+02</pubDate>
+              <pubDate>2023-11-27 14:30:06.110266+01</pubDate>
               <publicid>FLDWNLDR</publicid>
               <title>Content Library - IL Downloader</title>
               <name>Content Library</name>
@@ -217,7 +217,7 @@
             </item><item>
               <guid>394</guid>
               <os>windows</os>
-              <pubDate>2014-07-04 15:00:38.283461+02</pubDate>
+              <pubDate>2023-11-27 15:47:17.504617+01</pubDate>
               <publicid>FLDWNLDR</publicid>
               <title>Content Library - IL Downloader</title>
               <name>Content Library</name>
@@ -229,7 +229,7 @@
             </item><item>
               <guid>444</guid>
               <os>windows</os>
-              <pubDate>2017-04-21 17:22:20.500905+02</pubDate>
+              <pubDate>2023-11-27 14:29:42.954843+01</pubDate>
               <publicid>39021</publicid>
               <title>Edison WAV editor (FL/VST/SA) - Free Giveaway</title>
               <name>Edison</name>
@@ -241,27 +241,27 @@
             </item><item>
               <guid>480</guid>
               <os>macosx</os>
-              <pubDate>2023-09-04 13:10:51.056334+02</pubDate>
+              <pubDate>2024-02-08 13:44:20.428922+01</pubDate>
               <publicid>31035</publicid>
               <title>FL Studio Signature Bundle</title>
               <name></name>
-              <version>21.1.1.3318</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.1.1.3318.dmg</download_url>
+              <version>21.2.3.3586</version>
+              <versionDate>2024-02-08</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.2.3.3586.dmg</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>1197126086</filesize>
+              <filesize>1189428789</filesize>
             </item><item>
               <guid>480</guid>
               <os>windows</os>
-              <pubDate>2023-09-04 13:11:41.63982+02</pubDate>
+              <pubDate>2024-02-08 13:48:45.431892+01</pubDate>
               <publicid>31035</publicid>
               <title>FL Studio Signature Bundle</title>
               <name></name>
-              <version>21.1.1.3750</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.1.1.3750.exe</download_url>
+              <version>21.2.3.4004</version>
+              <versionDate>2024-02-06</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.2.3.4004.exe</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>970597144</filesize>
+              <filesize>975209152</filesize>
             </item><item>
               <guid>482</guid>
               <os>macosx</os>
@@ -397,7 +397,7 @@
             </item><item>
               <guid>537</guid>
               <os>macosx</os>
-              <pubDate>2010-06-28 16:09:48.527601+02</pubDate>
+              <pubDate>2023-11-27 15:47:23.082371+01</pubDate>
               <publicid>71042</publicid>
               <title>Digital DJ (Magix)</title>
               <name>Digital DJ</name>
@@ -409,7 +409,7 @@
             </item><item>
               <guid>537</guid>
               <os>windows</os>
-              <pubDate>2010-06-10 13:02:30.808239+02</pubDate>
+              <pubDate>2023-11-27 15:47:23.644869+01</pubDate>
               <publicid>71042</publicid>
               <title>Digital DJ (Magix)</title>
               <name>Digital DJ</name>
@@ -421,7 +421,7 @@
             </item><item>
               <guid>542</guid>
               <os>windows</os>
-              <pubDate>2010-06-10 13:02:30.808239+02</pubDate>
+              <pubDate>2023-11-27 15:47:23.644869+01</pubDate>
               <publicid>71114</publicid>
               <title>Deckadance v2 (coming from Digital DJ)</title>
               <name>Digital DJ</name>
@@ -433,7 +433,7 @@
             </item><item>
               <guid>543</guid>
               <os>windows</os>
-              <pubDate>2010-06-10 13:02:30.808239+02</pubDate>
+              <pubDate>2023-11-27 15:47:23.644869+01</pubDate>
               <publicid>71003</publicid>
               <title>Deckadance v2 DVS Edition (coming from Digital DJ)</title>
               <name>Digital DJ</name>
@@ -445,7 +445,7 @@
             </item><item>
               <guid>556</guid>
               <os>windows</os>
-              <pubDate>2014-02-17 14:56:01.508489+01</pubDate>
+              <pubDate>2023-11-27 15:47:12.357191+01</pubDate>
               <publicid>39100</publicid>
               <title>Newtone (FL Studio Only)</title>
               <name>NewTone</name>
@@ -457,7 +457,7 @@
             </item><item>
               <guid>557</guid>
               <os>windows</os>
-              <pubDate>2014-02-17 14:56:04.488287+01</pubDate>
+              <pubDate>2023-11-27 15:47:13.911804+01</pubDate>
               <publicid>39110</publicid>
               <title>Pitcher (FL Studio Only)</title>
               <name>Pitcher</name>
@@ -469,7 +469,7 @@
             </item><item>
               <guid>587</guid>
               <os>macosx</os>
-              <pubDate>2014-02-14 15:38:27.665245+01</pubDate>
+              <pubDate>2023-11-27 14:29:30.632705+01</pubDate>
               <publicid>38010</publicid>
               <title>Groove Machine (AU/VST/SA)</title>
               <name>Groove Machine</name>
@@ -481,7 +481,7 @@
             </item><item>
               <guid>587</guid>
               <os>windows</os>
-              <pubDate>2014-02-18 10:47:23.445986+01</pubDate>
+              <pubDate>2023-11-27 14:29:26.058487+01</pubDate>
               <publicid>38010</publicid>
               <title>Groove Machine (AU/VST/SA)</title>
               <name>Groove Machine</name>
@@ -493,31 +493,31 @@
             </item><item>
               <guid>607</guid>
               <os>macosx</os>
-              <pubDate>2023-09-04 13:10:51.056334+02</pubDate>
+              <pubDate>2024-02-08 13:44:20.428922+01</pubDate>
               <publicid>31020ALL</publicid>
               <title>FL Studio + ALL Plugins Bundle</title>
               <name></name>
-              <version>21.1.1.3318</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.1.1.3318.dmg</download_url>
+              <version>21.2.3.3586</version>
+              <versionDate>2024-02-08</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.2.3.3586.dmg</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>1197126086</filesize>
+              <filesize>1189428789</filesize>
             </item><item>
               <guid>607</guid>
               <os>windows</os>
-              <pubDate>2023-09-04 13:11:41.63982+02</pubDate>
+              <pubDate>2024-02-08 13:48:45.431892+01</pubDate>
               <publicid>31020ALL</publicid>
               <title>FL Studio + ALL Plugins Bundle</title>
               <name></name>
-              <version>21.1.1.3750</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.1.1.3750.exe</download_url>
+              <version>21.2.3.4004</version>
+              <versionDate>2024-02-06</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.2.3.4004.exe</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>970597144</filesize>
+              <filesize>975209152</filesize>
             </item><item>
               <guid>645</guid>
               <os>macosx</os>
-              <pubDate>2015-03-10 18:42:53.515968+01</pubDate>
+              <pubDate>2023-11-27 15:47:24.787472+01</pubDate>
               <publicid>72010</publicid>
               <title>Deckadance v2</title>
               <name>Deckadance v2</name>
@@ -529,7 +529,7 @@
             </item><item>
               <guid>645</guid>
               <os>windows</os>
-              <pubDate>2015-03-10 18:42:20.607753+01</pubDate>
+              <pubDate>2023-11-27 15:47:24.212119+01</pubDate>
               <publicid>72010</publicid>
               <title>Deckadance v2</title>
               <name>Deckadance v2</name>
@@ -541,7 +541,7 @@
             </item><item>
               <guid>650</guid>
               <os>windows</os>
-              <pubDate>2015-06-15 11:52:33.460369+02</pubDate>
+              <pubDate>2023-11-27 17:23:05.831212+01</pubDate>
               <publicid>31856</publicid>
               <title>FL Studio Fruity Edition v11.x (Box)</title>
               <name>FL Studio 11 Boxed</name>
@@ -553,55 +553,55 @@
             </item><item>
               <guid>710</guid>
               <os>macosx</os>
-              <pubDate>2023-09-04 13:10:51.056334+02</pubDate>
+              <pubDate>2024-02-08 13:44:20.428922+01</pubDate>
               <publicid>31020RZR</publicid>
               <title>FL Studio Producer Edition (Razer)</title>
               <name></name>
-              <version>21.1.1.3318</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.1.1.3318.dmg</download_url>
+              <version>21.2.3.3586</version>
+              <versionDate>2024-02-08</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.2.3.3586.dmg</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>1197126086</filesize>
+              <filesize>1189428789</filesize>
             </item><item>
               <guid>710</guid>
               <os>windows</os>
-              <pubDate>2023-09-04 13:11:41.63982+02</pubDate>
+              <pubDate>2024-02-08 13:48:45.431892+01</pubDate>
               <publicid>31020RZR</publicid>
               <title>FL Studio Producer Edition (Razer)</title>
               <name></name>
-              <version>21.1.1.3750</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.1.1.3750.exe</download_url>
+              <version>21.2.3.4004</version>
+              <versionDate>2024-02-06</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.2.3.4004.exe</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>970597144</filesize>
+              <filesize>975209152</filesize>
             </item><item>
               <guid>741</guid>
               <os>macosx</os>
-              <pubDate>2023-09-04 13:10:51.056334+02</pubDate>
+              <pubDate>2024-02-08 13:44:20.428922+01</pubDate>
               <publicid>31005</publicid>
               <title>FL Studio Fruity Fire Edition</title>
               <name></name>
-              <version>21.1.1.3318</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.1.1.3318.dmg</download_url>
+              <version>21.2.3.3586</version>
+              <versionDate>2024-02-08</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.2.3.3586.dmg</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>1197126086</filesize>
+              <filesize>1189428789</filesize>
             </item><item>
               <guid>741</guid>
               <os>windows</os>
-              <pubDate>2023-09-04 13:11:41.63982+02</pubDate>
+              <pubDate>2024-02-08 13:48:45.431892+01</pubDate>
               <publicid>31005</publicid>
               <title>FL Studio Fruity Fire Edition</title>
               <name></name>
-              <version>21.1.1.3750</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.1.1.3750.exe</download_url>
+              <version>21.2.3.4004</version>
+              <versionDate>2024-02-06</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.2.3.4004.exe</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>970597144</filesize>
+              <filesize>975209152</filesize>
             </item><item>
               <guid>742</guid>
               <os>macosx</os>
-              <pubDate>2021-09-20 05:56:13.171557+02</pubDate>
+              <pubDate>2023-11-27 16:32:14.391434+01</pubDate>
               <publicid>JP-31878</publicid>
               <title>FL Studio Signature Bundle v20+ (Japanese Box)</title>
               <name></name>
@@ -613,7 +613,7 @@
             </item><item>
               <guid>742</guid>
               <os>windows</os>
-              <pubDate>2018-08-01 14:09:37.172074+02</pubDate>
+              <pubDate>2023-11-27 14:31:42.754694+01</pubDate>
               <publicid>JP-31878</publicid>
               <title>FL Studio Signature Bundle v20+ (Japanese Box)</title>
               <name></name>
@@ -625,7 +625,7 @@
             </item><item>
               <guid>743</guid>
               <os>macosx</os>
-              <pubDate>2021-09-20 05:56:13.171557+02</pubDate>
+              <pubDate>2023-11-27 16:32:14.391434+01</pubDate>
               <publicid>JP-31876</publicid>
               <title>FL Studio Fruity Edition v20+ (Japanese Box)</title>
               <name></name>
@@ -637,7 +637,7 @@
             </item><item>
               <guid>743</guid>
               <os>windows</os>
-              <pubDate>2018-08-01 14:09:37.172074+02</pubDate>
+              <pubDate>2023-11-27 14:31:42.754694+01</pubDate>
               <publicid>JP-31876</publicid>
               <title>FL Studio Fruity Edition v20+ (Japanese Box)</title>
               <name></name>
@@ -649,31 +649,31 @@
             </item><item>
               <guid>765</guid>
               <os>macosx</os>
-              <pubDate>2023-09-04 13:10:51.056334+02</pubDate>
+              <pubDate>2024-02-08 13:44:20.428922+01</pubDate>
               <publicid>31035_EDU</publicid>
               <title>FL Studio Signature Bundle - Teachers Edition</title>
               <name></name>
-              <version>21.1.1.3318</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.1.1.3318.dmg</download_url>
+              <version>21.2.3.3586</version>
+              <versionDate>2024-02-08</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_21.2.3.3586.dmg</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>1197126086</filesize>
+              <filesize>1189428789</filesize>
             </item><item>
               <guid>765</guid>
               <os>windows</os>
-              <pubDate>2023-09-04 13:11:41.63982+02</pubDate>
+              <pubDate>2024-02-08 13:48:45.431892+01</pubDate>
               <publicid>31035_EDU</publicid>
               <title>FL Studio Signature Bundle - Teachers Edition</title>
               <name></name>
-              <version>21.1.1.3750</version>
-              <versionDate>2023-09-04</versionDate>
-              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.1.1.3750.exe</download_url>
+              <version>21.2.3.4004</version>
+              <versionDate>2024-02-06</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_21.2.3.4004.exe</download_url>
               <changelog_url>https://www.image-line.com/flstudio/history.php</changelog_url>
-              <filesize>970597144</filesize>
+              <filesize>975209152</filesize>
             </item><item>
               <guid>819</guid>
               <os>macosx</os>
-              <pubDate>2019-10-08 13:59:10.750806+02</pubDate>
+              <pubDate>2023-11-27 14:30:48.243948+01</pubDate>
               <publicid>37095VSTi</publicid>
               <title>Drumaxx (FL/AU/VST/SA)</title>
               <name></name>
@@ -685,7 +685,7 @@
             </item><item>
               <guid>819</guid>
               <os>windows</os>
-              <pubDate>2015-11-18 17:08:32.905559+01</pubDate>
+              <pubDate>2023-11-27 14:29:56.858391+01</pubDate>
               <publicid>37095VSTi</publicid>
               <title>Drumaxx (FL/AU/VST/SA)</title>
               <name>Drumaxx</name>
@@ -697,7 +697,7 @@
             </item><item>
               <guid>820</guid>
               <os>windows</os>
-              <pubDate>2017-04-21 17:27:27.413681+02</pubDate>
+              <pubDate>2023-11-27 14:28:50.839563+01</pubDate>
               <publicid>39030VSTi</publicid>
               <title>Maximus (FL/VST)</title>
               <name>Maximus</name>
@@ -709,7 +709,7 @@
             </item><item>
               <guid>821</guid>
               <os>macosx</os>
-              <pubDate>2019-10-08 14:33:55.110488+02</pubDate>
+              <pubDate>2023-11-27 14:30:32.10253+01</pubDate>
               <publicid>37090VSTi</publicid>
               <title>Sakura (FL/AU/VST/SA)</title>
               <name></name>
@@ -721,7 +721,7 @@
             </item><item>
               <guid>821</guid>
               <os>windows</os>
-              <pubDate>2020-08-28 12:25:11.659695+02</pubDate>
+              <pubDate>2023-11-27 14:28:06.685437+01</pubDate>
               <publicid>37090VSTi</publicid>
               <title>Sakura (FL/AU/VST/SA)</title>
               <name>Sakura</name>
@@ -733,7 +733,7 @@
             </item><item>
               <guid>822</guid>
               <os>macosx</os>
-              <pubDate>2019-10-08 14:36:07.569029+02</pubDate>
+              <pubDate>2023-11-27 14:30:29.095005+01</pubDate>
               <publicid>37085VSTi</publicid>
               <title>Sawer (FL/AU/VST/SA)</title>
               <name></name>
@@ -745,7 +745,7 @@
             </item><item>
               <guid>822</guid>
               <os>windows</os>
-              <pubDate>2015-11-18 17:28:40.426618+01</pubDate>
+              <pubDate>2023-11-27 14:27:55.546721+01</pubDate>
               <publicid>37085VSTi</publicid>
               <title>Sawer (FL/AU/VST/SA)</title>
               <name>Sawer</name>
@@ -757,7 +757,7 @@
             </item><item>
               <guid>823</guid>
               <os>macosx</os>
-              <pubDate>2019-10-08 14:26:08.159361+02</pubDate>
+              <pubDate>2023-11-27 14:30:42.281827+01</pubDate>
               <publicid>37080VSTi</publicid>
               <title>Morphine (FL/AU/VST/SA)</title>
               <name></name>
@@ -769,7 +769,7 @@
             </item><item>
               <guid>823</guid>
               <os>windows</os>
-              <pubDate>2015-11-18 17:14:08.563659+01</pubDate>
+              <pubDate>2023-11-27 14:28:37.141303+01</pubDate>
               <publicid>37080VSTi</publicid>
               <title>Morphine (FL/AU/VST/SA)</title>
               <name>Morphine</name>
@@ -781,7 +781,7 @@
             </item><item>
               <guid>824</guid>
               <os>macosx</os>
-              <pubDate>2019-10-08 15:33:28.403816+02</pubDate>
+              <pubDate>2023-11-27 14:30:20.737526+01</pubDate>
               <publicid>37070VSTi</publicid>
               <title>Toxic Biohazard (FL/AU/VST/SA)</title>
               <name></name>
@@ -793,7 +793,7 @@
             </item><item>
               <guid>824</guid>
               <os>windows</os>
-              <pubDate>2016-03-30 16:25:14.221356+02</pubDate>
+              <pubDate>2023-11-27 14:25:45.472901+01</pubDate>
               <publicid>37070VSTi</publicid>
               <title>Toxic Biohazard (FL/AU/VST/SA)</title>
               <name>Toxic Biohazard</name>
@@ -805,7 +805,7 @@
             </item><item>
               <guid>825</guid>
               <os>macosx</os>
-              <pubDate>2019-10-08 14:30:20.293623+02</pubDate>
+              <pubDate>2023-11-27 14:30:35.19937+01</pubDate>
               <publicid>37075VSTi</publicid>
               <title>PoiZone (FL/AU/VST/SA)</title>
               <name></name>
@@ -817,7 +817,7 @@
             </item><item>
               <guid>825</guid>
               <os>windows</os>
-              <pubDate>2015-11-18 17:18:52.940437+01</pubDate>
+              <pubDate>2023-11-27 14:28:16.163082+01</pubDate>
               <publicid>37075VSTi</publicid>
               <title>PoiZone (FL/AU/VST/SA)</title>
               <name>PoiZone</name>
@@ -829,7 +829,7 @@
             </item><item>
               <guid>826</guid>
               <os>windows</os>
-              <pubDate>2019-03-20 13:44:47.515601+01</pubDate>
+              <pubDate>2023-11-27 14:30:26.022553+01</pubDate>
               <publicid>37040VSTi</publicid>
               <title>Sytrus (FL/VST)</title>
               <name></name>
@@ -841,7 +841,7 @@
             </item><item>
               <guid>827</guid>
               <os>windows</os>
-              <pubDate>2014-05-15 15:47:55.265206+02</pubDate>
+              <pubDate>2023-11-27 14:30:11.61576+01</pubDate>
               <publicid>37060VSTi</publicid>
               <title>DirectWave (FL/VST)</title>
               <name>DirectWave</name>
@@ -853,7 +853,7 @@
             </item><item>
               <guid>828</guid>
               <os>windows</os>
-              <pubDate>2017-04-21 17:23:05.495141+02</pubDate>
+              <pubDate>2023-11-27 14:28:26.239664+01</pubDate>
               <publicid>39050VSTi</publicid>
               <title>Ogun (FL/VST)</title>
               <name>Ogun</name>
@@ -865,7 +865,7 @@
             </item><item>
               <guid>829</guid>
               <os>macosx</os>
-              <pubDate>2019-10-08 14:23:04.661327+02</pubDate>
+              <pubDate>2023-11-27 14:30:45.086089+01</pubDate>
               <publicid>39060VSTi</publicid>
               <title>Hardcore (FL/AU/VST/SA)</title>
               <name></name>
@@ -877,7 +877,7 @@
             </item><item>
               <guid>829</guid>
               <os>windows</os>
-              <pubDate>2015-11-06 10:45:53.21323+01</pubDate>
+              <pubDate>2023-11-27 14:29:15.353856+01</pubDate>
               <publicid>39060VSTi</publicid>
               <title>Hardcore (FL/AU/VST/SA)</title>
               <name>Hardcore</name>
@@ -889,7 +889,7 @@
             </item><item>
               <guid>830</guid>
               <os>windows</os>
-              <pubDate>2017-04-21 17:24:20.301944+02</pubDate>
+              <pubDate>2023-11-27 14:29:21.585925+01</pubDate>
               <publicid>39070VSTi</publicid>
               <title>Gross Beat (FL/VST)</title>
               <name>Gross Beat</name>
@@ -901,7 +901,7 @@
             </item><item>
               <guid>831</guid>
               <os>windows</os>
-              <pubDate>2017-04-21 17:25:12.314301+02</pubDate>
+              <pubDate>2023-11-27 14:29:10.465446+01</pubDate>
               <publicid>39090VSTi</publicid>
               <title>Harmless (FL/VST)</title>
               <name>Harmless</name>
@@ -913,7 +913,7 @@
             </item><item>
               <guid>832</guid>
               <os>windows</os>
-              <pubDate>2017-04-21 17:35:41.104333+02</pubDate>
+              <pubDate>2023-11-27 14:29:03.650151+01</pubDate>
               <publicid>39120VSTi</publicid>
               <title>Harmor (FL/VST/SA)</title>
               <name>Harmor</name>
@@ -925,7 +925,7 @@
             </item><item>
               <guid>833</guid>
               <os>windows</os>
-              <pubDate>2017-04-21 17:22:20.500905+02</pubDate>
+              <pubDate>2023-11-27 14:29:42.954843+01</pubDate>
               <publicid>39020VSTi</publicid>
               <title>Edison WAV editor (FL/VST/SA)</title>
               <name>Edison</name>
@@ -937,7 +937,7 @@
             </item><item>
               <guid>834</guid>
               <os>windows</os>
-              <pubDate>2017-04-21 17:28:25.382853+02</pubDate>
+              <pubDate>2023-11-27 14:27:46.610367+01</pubDate>
               <publicid>39040VSTi</publicid>
               <title>Slicex (FL/VST/SA)</title>
               <name>Slicex</name>
@@ -949,7 +949,7 @@
             </item><item>
               <guid>835</guid>
               <os>windows</os>
-              <pubDate>2017-04-21 17:34:44.64882+02</pubDate>
+              <pubDate>2023-11-27 14:25:38.857144+01</pubDate>
               <publicid>39080VSTi</publicid>
               <title>Vocodex (FL/VST)</title>
               <name>Vocodex</name>
