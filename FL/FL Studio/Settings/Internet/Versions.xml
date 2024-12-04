@@ -13,6 +13,7 @@
             </item><item>
               <guid>320</guid>
               <os>macosx</os>
+<<<<<<< Updated upstream
               <pubDate>2024-11-20 17:31:10.86206+01</pubDate>
               <publicid>31020</publicid>
               <title>FL Studio Producer Edition</title>
@@ -58,6 +59,53 @@
               <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.1.2.4430.exe</download_url>
               <changelog_url>https://www.image-line.com/history</changelog_url>
               <filesize>1072699040</filesize>
+=======
+              <pubDate>2024-11-29 13:47:37.064849+01</pubDate>
+              <publicid>31020</publicid>
+              <title>FL Studio Producer Edition</title>
+              <name></name>
+              <version>24.2.0.4161</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_24.2.0.4161.dmg</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1153809938</filesize>
+            </item><item>
+              <guid>320</guid>
+              <os>windows</os>
+              <pubDate>2024-11-29 10:48:55.483754+01</pubDate>
+              <publicid>31020</publicid>
+              <title>FL Studio Producer Edition</title>
+              <name></name>
+              <version>24.2.0.4503</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.2.0.4503.exe</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1077736768</filesize>
+            </item><item>
+              <guid>321</guid>
+              <os>macosx</os>
+              <pubDate>2024-11-29 13:47:37.064849+01</pubDate>
+              <publicid>31010</publicid>
+              <title>FL Studio Fruity Edition</title>
+              <name></name>
+              <version>24.2.0.4161</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_24.2.0.4161.dmg</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1153809938</filesize>
+            </item><item>
+              <guid>321</guid>
+              <os>windows</os>
+              <pubDate>2024-11-29 10:48:55.483754+01</pubDate>
+              <publicid>31010</publicid>
+              <title>FL Studio Fruity Edition</title>
+              <name></name>
+              <version>24.2.0.4503</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.2.0.4503.exe</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1077736768</filesize>
+>>>>>>> Stashed changes
             </item><item>
               <guid>338</guid>
               <os>windows</os>
@@ -241,6 +289,7 @@
             </item><item>
               <guid>480</guid>
               <os>macosx</os>
+<<<<<<< Updated upstream
               <pubDate>2024-11-20 17:31:10.86206+01</pubDate>
               <publicid>31035</publicid>
               <title>FL Studio Signature Bundle</title>
@@ -262,6 +311,29 @@
               <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.1.2.4430.exe</download_url>
               <changelog_url>https://www.image-line.com/history</changelog_url>
               <filesize>1072699040</filesize>
+=======
+              <pubDate>2024-11-29 13:47:37.064849+01</pubDate>
+              <publicid>31035</publicid>
+              <title>FL Studio Signature Bundle</title>
+              <name></name>
+              <version>24.2.0.4161</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_24.2.0.4161.dmg</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1153809938</filesize>
+            </item><item>
+              <guid>480</guid>
+              <os>windows</os>
+              <pubDate>2024-11-29 10:48:55.483754+01</pubDate>
+              <publicid>31035</publicid>
+              <title>FL Studio Signature Bundle</title>
+              <name></name>
+              <version>24.2.0.4503</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.2.0.4503.exe</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1077736768</filesize>
+>>>>>>> Stashed changes
             </item><item>
               <guid>482</guid>
               <os>macosx</os>
@@ -493,6 +565,7 @@
             </item><item>
               <guid>607</guid>
               <os>macosx</os>
+<<<<<<< Updated upstream
               <pubDate>2024-11-20 17:31:10.86206+01</pubDate>
               <publicid>31020ALL</publicid>
               <title>FL Studio + ALL Plugins Bundle</title>
@@ -514,6 +587,29 @@
               <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.1.2.4430.exe</download_url>
               <changelog_url>https://www.image-line.com/history</changelog_url>
               <filesize>1072699040</filesize>
+=======
+              <pubDate>2024-11-29 13:47:37.064849+01</pubDate>
+              <publicid>31020ALL</publicid>
+              <title>FL Studio + ALL Plugins Bundle</title>
+              <name></name>
+              <version>24.2.0.4161</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_24.2.0.4161.dmg</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1153809938</filesize>
+            </item><item>
+              <guid>607</guid>
+              <os>windows</os>
+              <pubDate>2024-11-29 10:48:55.483754+01</pubDate>
+              <publicid>31020ALL</publicid>
+              <title>FL Studio + ALL Plugins Bundle</title>
+              <name></name>
+              <version>24.2.0.4503</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.2.0.4503.exe</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1077736768</filesize>
+>>>>>>> Stashed changes
             </item><item>
               <guid>645</guid>
               <os>macosx</os>
@@ -553,6 +649,7 @@
             </item><item>
               <guid>710</guid>
               <os>macosx</os>
+<<<<<<< Updated upstream
               <pubDate>2024-11-20 17:31:10.86206+01</pubDate>
               <publicid>31020RZR</publicid>
               <title>FL Studio Producer Edition (Razer)</title>
@@ -598,6 +695,53 @@
               <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.1.2.4430.exe</download_url>
               <changelog_url>https://www.image-line.com/history</changelog_url>
               <filesize>1072699040</filesize>
+=======
+              <pubDate>2024-11-29 13:47:37.064849+01</pubDate>
+              <publicid>31020RZR</publicid>
+              <title>FL Studio Producer Edition (Razer)</title>
+              <name></name>
+              <version>24.2.0.4161</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_24.2.0.4161.dmg</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1153809938</filesize>
+            </item><item>
+              <guid>710</guid>
+              <os>windows</os>
+              <pubDate>2024-11-29 10:48:55.483754+01</pubDate>
+              <publicid>31020RZR</publicid>
+              <title>FL Studio Producer Edition (Razer)</title>
+              <name></name>
+              <version>24.2.0.4503</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.2.0.4503.exe</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1077736768</filesize>
+            </item><item>
+              <guid>741</guid>
+              <os>macosx</os>
+              <pubDate>2024-11-29 13:47:37.064849+01</pubDate>
+              <publicid>31005</publicid>
+              <title>FL Studio Fruity Fire Edition</title>
+              <name></name>
+              <version>24.2.0.4161</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_24.2.0.4161.dmg</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1153809938</filesize>
+            </item><item>
+              <guid>741</guid>
+              <os>windows</os>
+              <pubDate>2024-11-29 10:48:55.483754+01</pubDate>
+              <publicid>31005</publicid>
+              <title>FL Studio Fruity Fire Edition</title>
+              <name></name>
+              <version>24.2.0.4503</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.2.0.4503.exe</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1077736768</filesize>
+>>>>>>> Stashed changes
             </item><item>
               <guid>742</guid>
               <os>macosx</os>
@@ -649,6 +793,7 @@
             </item><item>
               <guid>765</guid>
               <os>macosx</os>
+<<<<<<< Updated upstream
               <pubDate>2024-11-20 17:31:10.86206+01</pubDate>
               <publicid>31035_EDU</publicid>
               <title>FL Studio Signature Bundle - Teachers Edition</title>
@@ -670,6 +815,29 @@
               <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.1.2.4430.exe</download_url>
               <changelog_url>https://www.image-line.com/history</changelog_url>
               <filesize>1072699040</filesize>
+=======
+              <pubDate>2024-11-29 13:47:37.064849+01</pubDate>
+              <publicid>31035_EDU</publicid>
+              <title>FL Studio Signature Bundle - Teachers Edition</title>
+              <name></name>
+              <version>24.2.0.4161</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_mac_24.2.0.4161.dmg</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1153809938</filesize>
+            </item><item>
+              <guid>765</guid>
+              <os>windows</os>
+              <pubDate>2024-11-29 10:48:55.483754+01</pubDate>
+              <publicid>31035_EDU</publicid>
+              <title>FL Studio Signature Bundle - Teachers Edition</title>
+              <name></name>
+              <version>24.2.0.4503</version>
+              <versionDate>2024-11-29</versionDate>
+              <download_url>https://demodownload.image-line.com/flstudio/flstudio_win64_24.2.0.4503.exe</download_url>
+              <changelog_url>https://www.image-line.com/history</changelog_url>
+              <filesize>1077736768</filesize>
+>>>>>>> Stashed changes
             </item><item>
               <guid>819</guid>
               <os>macosx</os>
