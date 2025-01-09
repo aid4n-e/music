@@ -1,0 +1,16 @@
+fileversion=2
+ps_name=The Bells
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\The Bells.fst
+ps_files=1
+ps_file_name_0=The Bells
+ps_file_filename_0=%FLPath%\Plugins\Downloaded\The Bells Windows 64-bit VST v1.0\The Bells.dll
+ps_file_plugclass_0=4
+ps_file_type_0=2
+ps_file_bitsize_0=64
+ps_file_magic_0=1313096553
+ps_file_guid_0={5653544E-4443-6974-6865-2062656C6C73}
+ps_file_date_0=4676426599320483300
+ps_file_size_0=6140416
+ps_file_scanflags_0=1
+ps_file_vendorname_0=SampleScience
+ps_file_category_0=synth

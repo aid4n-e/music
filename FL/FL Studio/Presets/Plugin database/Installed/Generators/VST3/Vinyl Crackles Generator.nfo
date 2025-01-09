@@ -1,0 +1,15 @@
+fileversion=2
+ps_name=Vinyl Crackles Generator
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST3\Vinyl Crackles Generator.fst
+ps_files=1
+ps_file_name_0=Vinyl Crackles Generator
+ps_file_filename_0=C:\Program Files\Common Files\VST3\Vinyl Crackles Generator Windows 64-bit VST3 v1.0\Vinyl Crackles Generator.vst3
+ps_file_plugclass_0=8
+ps_file_type_0=2
+ps_file_bitsize_0=64
+ps_file_guid_0={ABCDEF01-9182-FAEB-4A35-705759477942}
+ps_file_date_0=4676426512792505287
+ps_file_size_0=6293504
+ps_file_scanflags_0=1
+ps_file_vendorname_0=SampleScience
+ps_file_category_0=Instrument

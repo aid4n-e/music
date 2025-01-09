@@ -1,0 +1,16 @@
+fileversion=2
+ps_name=Upright Piano 1
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\Upright Piano 1.fst
+ps_files=1
+ps_file_name_0=Upright Piano 1
+ps_file_filename_0=%FLPath%\Plugins\Downloaded\VSUpright\VSUpright_v1_64B.dll
+ps_file_plugclass_0=4
+ps_file_type_0=2
+ps_file_bitsize_0=64
+ps_file_magic_0=1900304504
+ps_file_guid_0={56535471-4458-7875-7072-696768742070}
+ps_file_date_0=4675967549433619314
+ps_file_size_0=3785728
+ps_file_scanflags_0=1
+ps_file_vendorname_0=Versilian Studio
+ps_file_category_0=synth

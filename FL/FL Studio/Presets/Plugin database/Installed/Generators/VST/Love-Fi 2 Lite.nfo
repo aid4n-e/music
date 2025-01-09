@@ -1,0 +1,16 @@
+fileversion=2
+ps_name=Love-Fi 2 Lite
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\Love-Fi 2 Lite.fst
+ps_files=1
+ps_file_name_0=Love-Fi 2 Lite
+ps_file_filename_0=%FLPath%\Plugins\Downloaded\Love-Fi 2 Lite.dll
+ps_file_plugclass_0=4
+ps_file_type_0=2
+ps_file_bitsize_0=64
+ps_file_magic_0=1446540123
+ps_file_guid_0={56535456-3873-5B6C-6F76-652D66692032}
+ps_file_date_0=4676443669516436628
+ps_file_size_0=4845568
+ps_file_scanflags_0=1
+ps_file_vendorname_0=QuietMusic
+ps_file_category_0=synth
