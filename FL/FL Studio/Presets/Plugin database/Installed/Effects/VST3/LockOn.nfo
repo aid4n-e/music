@@ -1,0 +1,15 @@
+fileversion=2
+ps_name=LockOn
+ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST3\LockOn.fst
+ps_files=1
+ps_file_name_0=LockOn
+ps_file_filename_0=C:\Program Files\Common Files\VST3\LockOn.vst3\Contents\x86_64-win\LockOn.vst3
+ps_file_plugclass_0=7
+ps_file_type_0=1
+ps_file_bitsize_0=64
+ps_file_guid_0={ABCDEF01-9182-FAEB-5342-4D414C6B6F6E}
+ps_file_date_0=4676450920403737859
+ps_file_size_0=37422544
+ps_file_scanflags_0=1
+ps_file_vendorname_0=SubMission Audio
+ps_file_category_0=Fx

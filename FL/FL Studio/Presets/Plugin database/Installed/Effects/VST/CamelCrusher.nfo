@@ -1,0 +1,16 @@
+fileversion=2
+ps_name=CamelCrusher
+ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST\CamelCrusher.fst
+ps_files=1
+ps_file_name_0=CamelCrusher
+ps_file_filename_0=%FLPath%\Plugins\Downloaded\CamelCrusher\CamelCrusher.dll
+ps_file_plugclass_0=0
+ps_file_type_0=1
+ps_file_bitsize_0=64
+ps_file_magic_0=1130447730
+ps_file_guid_0={56535443-6143-7263-616D-656C63727573}
+ps_file_date_0=4675845035030285056
+ps_file_size_0=692736
+ps_file_scanflags_0=1
+ps_file_vendorname_0=Camel Audio
+ps_file_category_0=effect

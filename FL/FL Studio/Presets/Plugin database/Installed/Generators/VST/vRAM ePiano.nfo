@@ -1,0 +1,16 @@
+fileversion=2
+ps_name=vRAM ePiano
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\vRAM ePiano.fst
+ps_files=1
+ps_file_name_0=vRAM ePiano
+ps_file_filename_0=%FLPath%\Plugins\Downloaded\vRAM EPIANO\vRAM-epiano.dll
+ps_file_plugclass_0=4
+ps_file_type_0=2
+ps_file_bitsize_0=32
+ps_file_magic_0=1414349157
+ps_file_guid_0={56535454-4D41-6576-7261-6D2065706961}
+ps_file_date_0=4676434286389116922
+ps_file_size_0=9917952
+ps_file_scanflags_0=1
+ps_file_vendorname_0=vRAM
+ps_file_category_0=synth

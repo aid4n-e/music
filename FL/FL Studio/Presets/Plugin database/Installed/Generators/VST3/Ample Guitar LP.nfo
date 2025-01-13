@@ -1,0 +1,15 @@
+fileversion=2
+ps_name=Ample Guitar LP
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST3\Ample Guitar LP.fst
+ps_files=1
+ps_file_name_0=Ample Guitar LP
+ps_file_filename_0=C:\Program Files\Common Files\VST3\AGLP.vst3
+ps_file_plugclass_0=8
+ps_file_type_0=2
+ps_file_bitsize_0=64
+ps_file_guid_0={ABCDEF01-9182-FAEB-4170-736441676C70}
+ps_file_date_0=4676376137753484669
+ps_file_size_0=40505344
+ps_file_scanflags_0=1
+ps_file_vendorname_0=Ample Sound
+ps_file_category_0=Instrument|Synth
