@@ -1,8 +1,835 @@
-[27/01/2025 20:37:23] Application starting
-[27/01/2025 20:37:23] version 1.6.10.1549
-[27/01/2025 20:37:23] FL path is "E:\Program Files\FL Studio\"
-[27/01/2025 20:37:23] Plugin database path is "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\"
-[27/01/2025 20:37:25] LoadExistingPresets
-[27/01/2025 20:37:25]     Clear
-[27/01/2025 20:37:25]     Finished (LoadExistingPresets) - count=156
-[27/01/2025 20:37:27] Application stopped
+[29/01/2025 21:50:16] Application starting
+[29/01/2025 21:50:16] version 1.6.10.1549
+[29/01/2025 21:50:16] FL path is "E:\Program Files\FL Studio\"
+[29/01/2025 21:50:16] Plugin database path is "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\"
+[29/01/2025 21:50:16] LoadExistingPresets
+[29/01/2025 21:50:16]     Clear
+[29/01/2025 21:50:16]     Finished (LoadExistingPresets) - count=156
+[29/01/2025 21:50:18] Scan
+[29/01/2025 21:50:18]   [FL] E:\Program Files\FL Studio\Plugins\Fruity\Effects\
+[29/01/2025 21:50:18]   [FL] E:\Program Files\FL Studio\Plugins\Fruity\Generators\
+[29/01/2025 21:50:18]   [VST] E:\Program Files\Cakewalk\Vstplugins\
+[29/01/2025 21:50:18]   [VST] C:\Program Files (x86)\Steinberg\VstPlugins\
+[29/01/2025 21:50:18]   [VST] e:\program files\fl studio\Plugins\VST\
+[29/01/2025 21:50:18]   [VST3] C:\Program Files (x86)\Common Files\VST3\
+[29/01/2025 21:50:18]   [VST3] C:\Program Files\Common Files\VST3\
+[29/01/2025 21:50:18]   [VST] e:\program files\fl studio\Plugins\Downloaded\
+[29/01/2025 21:50:18]   [VST] e:\program files\fl studio\Plugins\Downloaded\VST\
+[29/01/2025 21:50:18]   [VST] e:\program files\fl studio\Plugins\Downloaded\VST3\
+[29/01/2025 21:50:18]   Options: noscannerexe verify store bridge threaded
+[29/01/2025 21:50:18] Scan - internal
+[29/01/2025 21:50:18]     LoadExistingPresets
+[29/01/2025 21:50:18]         Clear
+[29/01/2025 21:50:18]         Finished (LoadExistingPresets) - count=156
+[29/01/2025 21:50:18]     Loaded existing presets - count=156
+[29/01/2025 21:50:18]     Ensure plugins still exist
+[29/01/2025 21:50:19]     Deleted missing presets - count=156
+[29/01/2025 21:50:19]     Find files
+[29/01/2025 21:50:19]     Find plugins
+[29/01/2025 21:50:19]         Scanning FL
+[29/01/2025 21:50:19]             Scanning... [FL] E:\Program Files\FL Studio\Plugins\Fruity\Effects\
+[29/01/2025 21:50:19]             search path: E:\Program Files\FL Studio\Plugins\Fruity\Effects\
+[29/01/2025 21:50:19]             Scanning... [FL] E:\Program Files\FL Studio\Plugins\Fruity\Generators\
+[29/01/2025 21:50:19]             search path: E:\Program Files\FL Studio\Plugins\Fruity\Generators\
+[29/01/2025 21:50:19]             Found 233 plugins
+[29/01/2025 21:50:19]             Finished (FL)
+[29/01/2025 21:50:19]         Scanning VST
+[29/01/2025 21:50:19]             Scanning... [VST] E:\Program Files\Cakewalk\Vstplugins\
+[29/01/2025 21:50:19]             search path: E:\Program Files\Cakewalk\Vstplugins\
+[29/01/2025 21:50:19]             Scanning... [VST] C:\Program Files (x86)\Steinberg\VstPlugins\
+[29/01/2025 21:50:19]             search path: C:\Program Files (x86)\Steinberg\VstPlugins\
+[29/01/2025 21:50:19]             Scanning... [VST] e:\program files\fl studio\Plugins\VST\
+[29/01/2025 21:50:19]             search path: e:\program files\fl studio\Plugins\VST\
+[29/01/2025 21:50:19]             Scanning... [VST] e:\program files\fl studio\Plugins\Downloaded\
+[29/01/2025 21:50:19]             search path: e:\program files\fl studio\Plugins\Downloaded\
+[29/01/2025 21:50:20]             Scanning... [VST] e:\program files\fl studio\Plugins\Downloaded\VST\
+[29/01/2025 21:50:20]             search path: e:\program files\fl studio\Plugins\Downloaded\VST\
+[29/01/2025 21:50:20]             Scanning... [VST] e:\program files\fl studio\Plugins\Downloaded\VST3\
+[29/01/2025 21:50:20]             search path: e:\program files\fl studio\Plugins\Downloaded\VST3\
+[29/01/2025 21:50:20]             Found 36 plugins
+[29/01/2025 21:50:20]             Finished (VST)
+[29/01/2025 21:50:20]         Scanning VST3
+[29/01/2025 21:50:20]             Scanning... [VST3] C:\Program Files (x86)\Common Files\VST3\
+[29/01/2025 21:50:20]             search path: C:\Program Files (x86)\Common Files\VST3\
+[29/01/2025 21:50:20]             Scanning... [VST3] C:\Program Files\Common Files\VST3\
+[29/01/2025 21:50:20]             search path: C:\Program Files\Common Files\VST3\
+[29/01/2025 21:50:20]             Found 53 plugins
+[29/01/2025 21:50:20]             Finished (VST3)
+[29/01/2025 21:50:20]         Finished (find plugins)
+[29/01/2025 21:50:20]     Verify plugins
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Control Surface\Control Surface.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Control Surface\Control Surface_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Distructor\Distructor.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Distructor\Distructor_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Edison\Edison.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Edison\Edison_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Effector\Effector.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Effector\Effector_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\EQUO\EQUO.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\EQUO\EQUO_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity 7 Band EQ\Fruity 7 Band EQ.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity 7 Band EQ\Fruity 7 Band EQ_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Balance\Fruity Balance.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Balance\Fruity Balance_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Bass Boost\Fruity Bass Boost.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Bass Boost\Fruity Bass Boost_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Big Clock\Fruity Big Clock.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Big Clock\Fruity Big Clock_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Blood Overdrive\Fruity Blood Overdrive.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Blood Overdrive\Fruity Blood Overdrive_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Center\Fruity Center.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Center\Fruity Center_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Chorus\Fruity Chorus.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Chorus\Fruity Chorus_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Compressor\Fruity Compressor.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Compressor\Fruity Compressor_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Convolver\Fruity Convolver.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Convolver\Fruity Convolver_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity dB Meter\Fruity dB Meter.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity dB Meter\Fruity dB Meter_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Delay\Fruity Delay.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Delay\Fruity Delay_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Delay 2\Fruity Delay 2.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Delay 2\Fruity Delay 2_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Delay 3\Fruity Delay 3.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Delay 3\Fruity Delay 3_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Delay Bank\Fruity Delay Bank.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Delay Bank\Fruity Delay Bank_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Fast Dist\Fruity Fast Dist.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Fast Dist\Fruity Fast Dist_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Fast LP\Fruity Fast LP.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Fast LP\Fruity Fast LP_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Filter\Fruity Filter.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Filter\Fruity Filter_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Flanger\Fruity Flanger.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Flanger\Fruity Flanger_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Flangus\Fruity Flangus.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Flangus\Fruity Flangus_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Formula Controller\Fruity Formula Controller.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Formula Controller\Fruity Formula Controller_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Free Filter\Fruity Free Filter.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Free Filter\Fruity Free Filter_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity HTML NoteBook\Fruity HTML NoteBook.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity HTML NoteBook\Fruity HTML NoteBook_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Limiter\Fruity Limiter.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Limiter\Fruity Limiter_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Love Philter\Fruity Love Philter.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Love Philter\Fruity Love Philter_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity LSD\Fruity LSD.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity LSD\Fruity LSD_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Multiband Compressor\Fruity Multiband Compressor.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Multiband Compressor\Fruity Multiband Compressor_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Mute 2\Fruity Mute 2.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Mute 2\Fruity Mute 2_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity NoteBook\Fruity NoteBook.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity NoteBook\Fruity NoteBook_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity NoteBook 2\Fruity NoteBook 2.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity NoteBook 2\Fruity NoteBook 2_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity PanOMatic\Fruity PanOMatic.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity PanOMatic\Fruity PanOMatic_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Parametric EQ\Fruity Parametric EQ.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Parametric EQ\Fruity Parametric EQ_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Parametric EQ 2\Fruity Parametric EQ 2.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Parametric EQ 2\Fruity Parametric EQ 2_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Peak Controller\Fruity Peak Controller.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Peak Controller\Fruity Peak Controller_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Phase Inverter\Fruity Phase Inverter.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Phase Inverter\Fruity Phase Inverter_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Phaser\Fruity Phaser.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Phaser\Fruity Phaser_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Reeverb\Fruity Reeverb.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Reeverb\Fruity Reeverb_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Reeverb 2\Fruity Reeverb 2.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Reeverb 2\Fruity Reeverb 2_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Scratcher\Fruity Scratcher.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Scratcher\Fruity Scratcher_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Send\Fruity Send.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Send\Fruity Send_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Soft Clipper\Fruity Soft Clipper.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Soft Clipper\Fruity Soft Clipper_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Spectroman\Fruity Spectroman.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Spectroman\Fruity Spectroman_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Squeeze\Fruity Squeeze.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Squeeze\Fruity Squeeze_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Stereo Enhancer\Fruity Stereo Enhancer.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Stereo Enhancer\Fruity Stereo Enhancer_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Stereo Shaper\Fruity Stereo Shaper.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Stereo Shaper\Fruity Stereo Shaper_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Vocoder\Fruity Vocoder.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Vocoder\Fruity Vocoder_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity WaveShaper\Fruity WaveShaper.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity WaveShaper\Fruity WaveShaper_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Wrapper\Fruity Wrapper.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity Wrapper\Fruity Wrapper_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity X-Y Controller\Fruity X-Y Controller.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity X-Y Controller\Fruity X-Y Controller_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity X-Y-Z Controller\Fruity X-Y-Z Controller.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Fruity X-Y-Z Controller\Fruity X-Y-Z Controller_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Gross Beat\Gross Beat.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Gross Beat\Gross Beat_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Hardcore\Hardcore.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Hardcore\Hardcore_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Maximus\Maximus.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Maximus\Maximus_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Newtime\Newtime.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Newtime\Newtime_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Newtone\Newtone.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Newtone\Newtone_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Patcher\Patcher.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Patcher\Patcher_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Pitcher\Pitcher.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Pitcher\Pitcher_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Razer Chroma\Razer Chroma.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Razer Chroma\Razer Chroma_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Soundgoodizer\Soundgoodizer.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Soundgoodizer\Soundgoodizer_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Transient Processor\Transient Processor.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Transient Processor\Transient Processor_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\VFX Color Mapper\VFX Color Mapper.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\VFX Color Mapper\VFX Color Mapper_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\VFX Key Mapper\VFX Key Mapper.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\VFX Key Mapper\VFX Key Mapper_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\VFX Keyboard Splitter\VFX Keyboard Splitter.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\VFX Keyboard Splitter\VFX Keyboard Splitter_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\VFX Level Scaler\VFX Level Scaler.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\VFX Level Scaler\VFX Level Scaler_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Vocodex\Vocodex.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Vocodex\Vocodex_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Wave Candy\Wave Candy.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\Wave Candy\Wave Candy_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\ZGameEditor Visualizer\ZGameEditor Visualizer.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Effects\ZGameEditor Visualizer\ZGameEditor Visualizer_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\3x Osc\3x Osc.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\3x Osc\3x Osc_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Autogun\Autogun.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Autogun\Autogun_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\BassDrum\BassDrum.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\BassDrum\BassDrum_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\BeepMap\BeepMap.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\BeepMap\BeepMap_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\BooBass\BooBass.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\BooBass\BooBass_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Dashboard\Dashboard.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Dashboard\Dashboard_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\DirectWave\DirectWave.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\DirectWave\DirectWave_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Drumaxx\Drumaxx.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Drumaxx\Drumaxx_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Drumpad\Drumpad.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Drumpad\Drumpad_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\FL Keys\FL Keys.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\FL Keys\FL Keys_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\FL Slayer\FL Slayer.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\FL Slayer\FL Slayer_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\FL Studio Mobile\FL Studio Mobile.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\FL Studio Mobile\FL Studio Mobile_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\FLEX\FLEX.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\FLEX\FLEX_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\FPC\FPC.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\FPC\FPC_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruit Kick\Fruit Kick.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruit Kick\Fruit Kick_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Dance\Fruity Dance.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Dance\Fruity Dance_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity DrumSynth Live\Fruity DrumSynth Live.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity DrumSynth Live\Fruity DrumSynth Live_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity DX10\Fruity DX10.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity DX10\Fruity DX10_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Envelope Controller\Fruity Envelope Controller.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Envelope Controller\Fruity Envelope Controller_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Granulizer\Fruity Granulizer.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Granulizer\Fruity Granulizer_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Keyboard Controller\Fruity Keyboard Controller.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Keyboard Controller\Fruity Keyboard Controller_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Slicer\Fruity Slicer.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Slicer\Fruity Slicer_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Soundfont Player\Fruity Soundfont Player.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Video Player\Fruity Video Player.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Video Player\Fruity Video Player_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Voltage Controller\Fruity Voltage Controller.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Voltage Controller\Fruity Voltage Controller_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Wrapper\Fruity Wrapper.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Fruity Wrapper\Fruity Wrapper_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\GMS\GMS.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\GMS\GMS_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Harmless\Harmless.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Harmless\Harmless_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Harmor\Harmor.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Harmor\Harmor_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\MIDI Out\MIDI Out.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\MIDI Out\MIDI Out_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\MiniSynth\MiniSynth.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\MiniSynth\MiniSynth_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Morphine\Morphine.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Morphine\Morphine_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Ogun\Ogun.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Ogun\Ogun_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Patcher\Patcher.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Patcher\Patcher_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Plucked!\Plucked!.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Plucked!\Plucked!_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\PoiZone\PoiZone.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\PoiZone\PoiZone_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\ReWired\ReWired.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\ReWired\ReWired_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Sakura\Sakura.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Sakura\Sakura_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Sawer\Sawer.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Sawer\Sawer_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\SimSynth\SimSynth.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\SimSynth\SimSynth_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Slicex\Slicex.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Slicex\Slicex_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Sytrus\Sytrus.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Sytrus\Sytrus_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Toxic Biohazard\Toxic Biohazard.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Toxic Biohazard\Toxic Biohazard_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Transistor Bass\Transistor Bass.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Transistor Bass\Transistor Bass_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Wasp\Wasp.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Wasp XT\Wasp XT.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Wave Traveller\Wave Traveller.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\FL Studio\Plugins\Fruity\Generators\Wave Traveller\Wave Traveller_x64.dll
+[29/01/2025 21:50:20]     Skipped - E:\Program Files\Cakewalk\Vstplugins\TDR Nova.dll
+[29/01/2025 21:50:20]     Skipped - C:\Program Files (x86)\Steinberg\VstPlugins\TDR Nova.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Ample Bass P.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Ample Bass U.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Ample Ethno U.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Ample Guitar LP.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Ample Guitar M.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\APC.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\APCx86.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\CamelCrusher\CamelCrusher.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Crystal Harp 64-bit Windows VST v1.0\Crystal Harp.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\DSK Asian DreamZ\DSK Asian DreamZ.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\DSK Dynamic Guitars (64bits)\DSK Dynamic Guitars.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\DSK World StringZ\DSK World StringZ.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\helm.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\helm64.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Iowa Sax\Iowa Alto Sax - 32.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Krush.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Love-Fi 2 Lite.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\LUFS\Youlean Loudness Meter 2.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Powershaper.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Sitar Renaissance Windows 64-bit VST v1.0\Sitar Renaissance.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\SPAN.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Synth1\Synth1 VST.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Synth1\Synth1 VST64.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\The Bells Windows 64-bit VST v1.0\The Bells.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Vinyl Crackles Generator Windows 64-bit VST v1.0\Vinyl Crackles Generator.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\vRAM EPIANO\vRAM-epiano.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\VST\DecentSampler.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\VST\Plogue Art et Technologie, Inc\sforzando VST_x64.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\VST3\Plogue Art et Technologie, Inc\sforzando VST_x86.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\VSUpright\VSUpright_v1_64B.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\Zither Renaissance Windows 64-bit VST v1.0\Zither Renaissance.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\VST\DecentSampler.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\VST\Plogue Art et Technologie, Inc\sforzando VST_x64.dll
+[29/01/2025 21:50:20]     Skipped - e:\program files\fl studio\Plugins\Downloaded\VST3\Plogue Art et Technologie, Inc\sforzando VST_x86.dll
+[29/01/2025 21:50:20]     Skipped - C:\Program Files (x86)\Common Files\VST3\DecentSampler.vst3
+[29/01/2025 21:50:20]     Skipped - C:\Program Files (x86)\Common Files\VST3\TDR Nova.vst3
+[29/01/2025 21:50:20]     Skipped - C:\Program Files\Common Files\VST3\ABP.vst3
+[29/01/2025 21:50:20]     Skipped - C:\Program Files\Common Files\VST3\ABU.vst3
+[29/01/2025 21:50:20]     Skipped - C:\Program Files\Common Files\VST3\AEU.vst3
+[29/01/2025 21:50:20]     Skipped - C:\Program Files\Common Files\VST3\AGLP.vst3
+[29/01/2025 21:50:20]     Skipped - C:\Program Files\Common Files\VST3\AGM.vst3
+[29/01/2025 21:50:20]     Skipped - C:\Program Files\Common Files\VST3\Celemony\Melodyne\Melodyne.vst3
+[29/01/2025 21:50:20]     Skipped - C:\Program Files\Common Files\VST3\DecentSampler.vst3
+[29/01/2025 21:50:20]     Skipped - C:\Program Files\Common Files\VST3\Helm\helm.vst3
+[29/01/2025 21:50:20]     Skipped - C:\Program Files\Common Files\VST3\Helm\helm64.vst3
+[29/01/2025 21:50:20]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs 3-Band EQ.vst3
+[29/01/2025 21:50:20]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs 3-Band EQ.vst3
+[29/01/2025 21:50:22]     [verified] "kHs 3-Band EQ"
+[29/01/2025 21:50:22]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Bitcrush.vst3
+[29/01/2025 21:50:22]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Bitcrush.vst3
+[29/01/2025 21:50:23]     [verified] "kHs Bitcrush"
+[29/01/2025 21:50:23]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Channel Mixer.vst3
+[29/01/2025 21:50:23]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Channel Mixer.vst3
+[29/01/2025 21:50:24]     [verified] "kHs Channel Mixer"
+[29/01/2025 21:50:24]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Chorus.vst3
+[29/01/2025 21:50:24]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Chorus.vst3
+[29/01/2025 21:50:25]     [verified] "kHs Chorus"
+[29/01/2025 21:50:25]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Comb Filter.vst3
+[29/01/2025 21:50:25]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Comb Filter.vst3
+[29/01/2025 21:50:25]     [verified] "kHs Comb Filter"
+[29/01/2025 21:50:25]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3
+[29/01/2025 21:50:25]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3
+[29/01/2025 21:50:26]     [verified] "kHs Compressor"
+[29/01/2025 21:50:26]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Delay.vst3
+[29/01/2025 21:50:26]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Delay.vst3
+[29/01/2025 21:50:27]     [verified] "kHs Delay"
+[29/01/2025 21:50:27]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Distortion.vst3
+[29/01/2025 21:50:27]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Distortion.vst3
+[29/01/2025 21:50:28]     [verified] "kHs Distortion"
+[29/01/2025 21:50:28]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Dual Delay.vst3
+[29/01/2025 21:50:28]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Dual Delay.vst3
+[29/01/2025 21:50:29]     [verified] "kHs Dual Delay"
+[29/01/2025 21:50:29]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Dynamics.vst3
+[29/01/2025 21:50:29]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Dynamics.vst3
+[29/01/2025 21:50:30]     [verified] "kHs Dynamics"
+[29/01/2025 21:50:30]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Ensemble.vst3
+[29/01/2025 21:50:30]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Ensemble.vst3
+[29/01/2025 21:50:31]     [verified] "kHs Ensemble"
+[29/01/2025 21:50:31]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Filter.vst3
+[29/01/2025 21:50:31]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Filter.vst3
+[29/01/2025 21:50:32]     [verified] "kHs Filter"
+[29/01/2025 21:50:32]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Flanger.vst3
+[29/01/2025 21:50:32]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Flanger.vst3
+[29/01/2025 21:50:33]     [verified] "kHs Flanger"
+[29/01/2025 21:50:33]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Formant Filter.vst3
+[29/01/2025 21:50:33]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Formant Filter.vst3
+[29/01/2025 21:50:34]     [verified] "kHs Formant Filter"
+[29/01/2025 21:50:34]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Frequency Shifter.vst3
+[29/01/2025 21:50:34]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Frequency Shifter.vst3
+[29/01/2025 21:50:34]     [verified] "kHs Frequency Shifter"
+[29/01/2025 21:50:34]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Gain.vst3
+[29/01/2025 21:50:34]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Gain.vst3
+[29/01/2025 21:50:35]     [verified] "kHs Gain"
+[29/01/2025 21:50:35]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Gate.vst3
+[29/01/2025 21:50:35]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Gate.vst3
+[29/01/2025 21:50:36]     [verified] "kHs Gate"
+[29/01/2025 21:50:36]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Haas.vst3
+[29/01/2025 21:50:36]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Haas.vst3
+[29/01/2025 21:50:36]     [verified] "kHs Haas"
+[29/01/2025 21:50:36]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Ladder Filter.vst3
+[29/01/2025 21:50:36]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Ladder Filter.vst3
+[29/01/2025 21:50:37]     [verified] "kHs Ladder Filter"
+[29/01/2025 21:50:37]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Limiter.vst3
+[29/01/2025 21:50:37]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Limiter.vst3
+[29/01/2025 21:50:38]     [verified] "kHs Limiter"
+[29/01/2025 21:50:38]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Nonlinear Filter.vst3
+[29/01/2025 21:50:38]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Nonlinear Filter.vst3
+[29/01/2025 21:50:38]     [verified] "kHs Nonlinear Filter"
+[29/01/2025 21:50:38]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Phase Distortion.vst3
+[29/01/2025 21:50:38]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Phase Distortion.vst3
+[29/01/2025 21:50:39]     [verified] "kHs Phase Distortion"
+[29/01/2025 21:50:39]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Phaser.vst3
+[29/01/2025 21:50:39]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Phaser.vst3
+[29/01/2025 21:50:40]     [verified] "kHs Phaser"
+[29/01/2025 21:50:40]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Pitch Shifter.vst3
+[29/01/2025 21:50:40]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Pitch Shifter.vst3
+[29/01/2025 21:50:40]     [verified] "kHs Pitch Shifter"
+[29/01/2025 21:50:40]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Resonator.vst3
+[29/01/2025 21:50:40]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Resonator.vst3
+[29/01/2025 21:50:41]     [verified] "kHs Resonator"
+[29/01/2025 21:50:41]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Reverb.vst3
+[29/01/2025 21:50:41]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Reverb.vst3
+[29/01/2025 21:50:42]     [verified] "kHs Reverb"
+[29/01/2025 21:50:42]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Reverser.vst3
+[29/01/2025 21:50:42]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Reverser.vst3
+[29/01/2025 21:50:42]     [verified] "kHs Reverser"
+[29/01/2025 21:50:42]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Ring Mod.vst3
+[29/01/2025 21:50:42]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Ring Mod.vst3
+[29/01/2025 21:50:43]     [verified] "kHs Ring Mod"
+[29/01/2025 21:50:43]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Shaper.vst3
+[29/01/2025 21:50:43]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Shaper.vst3
+[29/01/2025 21:50:44]     [verified] "kHs Shaper"
+[29/01/2025 21:50:44]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Stereo.vst3
+[29/01/2025 21:50:44]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Stereo.vst3
+[29/01/2025 21:50:44]     [verified] "kHs Stereo"
+[29/01/2025 21:50:44]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Tape Stop.vst3
+[29/01/2025 21:50:44]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Tape Stop.vst3
+[29/01/2025 21:50:45]     [verified] "kHs Tape Stop"
+[29/01/2025 21:50:45]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Trance Gate.vst3
+[29/01/2025 21:50:45]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Trance Gate.vst3
+[29/01/2025 21:50:46]     [verified] "kHs Trance Gate"
+[29/01/2025 21:50:46]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Kilohearts\kHs Transient Shaper.vst3
+[29/01/2025 21:50:46]     Verify plugin - C:\Program Files\Common Files\VST3\Kilohearts\kHs Transient Shaper.vst3
+[29/01/2025 21:50:46]     [verified] "kHs Transient Shaper"
+[29/01/2025 21:50:46]     Skipped - C:\Program Files\Common Files\VST3\Krush.vst3\Contents\x86_64-win\Krush.vst3
+[29/01/2025 21:50:46]     Skipped - C:\Program Files\Common Files\VST3\LockOn.vst3\Contents\x86_64-win\LockOn.vst3
+[29/01/2025 21:50:46]     Skipped - C:\Program Files\Common Files\VST3\PaulXStretch.vst3\Contents\x86_64-win\PaulXStretch.vst3
+[29/01/2025 21:50:46]     Skipped - C:\Program Files\Common Files\VST3\sforzando.vst3\Contents\x86_64-win\sforzando.vst3
+[29/01/2025 21:50:46]     Skipped - C:\Program Files\Common Files\VST3\Sitar Renaissance Windows 64-bit VST3 v1.0\Sitar Renaissance.vst3
+[29/01/2025 21:50:46]     Skipped - C:\Program Files\Common Files\VST3\Sweetcase EP.vst3
+[29/01/2025 21:50:46]     Skipped - C:\Program Files\Common Files\VST3\TDR Nova.vst3
+[29/01/2025 21:50:46]     Skipped - C:\Program Files\Common Files\VST3\TheMasker.vst3
+[29/01/2025 21:50:46]     Skipped - C:\Program Files\Common Files\VST3\Vinyl Crackles Generator Windows 64-bit VST3 v1.0\Vinyl Crackles Generator.vst3
+[29/01/2025 21:50:46]     Add plugins to list
+[29/01/2025 21:50:46]     Clean up plugin names
+[29/01/2025 21:50:46]     Added new files as presets and combined - count=189
+[29/01/2025 21:50:46]     Store presets
+[29/01/2025 21:50:46]     Store all presets - count=189 dbpath="E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\"
+[29/01/2025 21:50:48]         Store preset "Control Surface" - effect=1
+[29/01/2025 21:50:48]         Save "Control Surface": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Control Surface.fst"
+[29/01/2025 21:50:48]         Store preset "Distructor" - effect=1
+[29/01/2025 21:50:48]         Save "Distructor": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Distructor.fst"
+[29/01/2025 21:50:48]         Store preset "Edison" - effect=1
+[29/01/2025 21:50:48]         Save "Edison": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Edison.fst"
+[29/01/2025 21:50:48]         Store preset "Effector" - effect=1
+[29/01/2025 21:50:48]         Save "Effector": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Effector.fst"
+[29/01/2025 21:50:48]         Store preset "EQUO" - effect=1
+[29/01/2025 21:50:48]         Save "EQUO": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\EQUO.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity 7 Band EQ" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity 7 Band EQ": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity 7 Band EQ.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Balance" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Balance": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Balance.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Bass Boost" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Bass Boost": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Bass Boost.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Big Clock" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Big Clock": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Big Clock.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Blood Overdrive" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Blood Overdrive": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Blood Overdrive.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Center" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Center": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Center.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Chorus" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Chorus": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Chorus.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Compressor" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Compressor": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Compressor.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Convolver" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Convolver": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Convolver.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity dB Meter" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity dB Meter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity dB Meter.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Delay 2" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Delay 2": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Delay 2.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Delay 3" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Delay 3": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Delay 3.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Delay Bank" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Delay Bank": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Delay Bank.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Delay" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Delay": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Delay.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Fast Dist" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Fast Dist": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Fast Dist.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Fast LP" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Fast LP": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Fast LP.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Filter" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Filter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Filter.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Flanger" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Flanger": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Flanger.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Flangus" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Flangus": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Flangus.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Formula Controller" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Formula Controller": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Formula Controller.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Free Filter" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Free Filter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Free Filter.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity HTML NoteBook" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity HTML NoteBook": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity HTML NoteBook.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Limiter" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Limiter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Limiter.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Love Philter" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Love Philter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Love Philter.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity LSD" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity LSD": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity LSD.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Multiband Compressor" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Multiband Compressor": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Multiband Compressor.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Mute 2" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Mute 2": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Mute 2.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity NoteBook 2" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity NoteBook 2": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity NoteBook 2.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity NoteBook" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity NoteBook": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity NoteBook.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity PanOMatic" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity PanOMatic": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity PanOMatic.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Parametric EQ 2" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Parametric EQ 2": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Parametric EQ 2.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Parametric EQ" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Parametric EQ": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Parametric EQ.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Peak Controller" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Peak Controller": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Peak Controller.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Phase Inverter" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Phase Inverter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Phase Inverter.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Phaser" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Phaser": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Phaser.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Reeverb 2" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Reeverb 2": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Reeverb 2.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Reeverb" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Reeverb": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Reeverb.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Scratcher" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Scratcher": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Scratcher.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Send" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Send": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Send.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Soft Clipper" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Soft Clipper": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Soft Clipper.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Spectroman" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Spectroman": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Spectroman.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Squeeze" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Squeeze": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Squeeze.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Stereo Enhancer" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Stereo Enhancer": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Stereo Enhancer.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Stereo Shaper" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Stereo Shaper": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Stereo Shaper.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Vocoder" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Vocoder": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Vocoder.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity WaveShaper" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity WaveShaper": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity WaveShaper.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Wrapper" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity Wrapper": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Wrapper.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity X-Y Controller" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity X-Y Controller": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity X-Y Controller.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity X-Y-Z Controller" - effect=1
+[29/01/2025 21:50:48]         Save "Fruity X-Y-Z Controller": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity X-Y-Z Controller.fst"
+[29/01/2025 21:50:48]         Store preset "Gross Beat" - effect=1
+[29/01/2025 21:50:48]         Save "Gross Beat": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Gross Beat.fst"
+[29/01/2025 21:50:48]         Store preset "Hardcore" - effect=1
+[29/01/2025 21:50:48]         Save "Hardcore": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Hardcore.fst"
+[29/01/2025 21:50:48]         Store preset "Maximus" - effect=1
+[29/01/2025 21:50:48]         Save "Maximus": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Maximus.fst"
+[29/01/2025 21:50:48]         Store preset "Newtime" - effect=1
+[29/01/2025 21:50:48]         Save "Newtime": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Newtime.fst"
+[29/01/2025 21:50:48]         Store preset "Newtone" - effect=1
+[29/01/2025 21:50:48]         Save "Newtone": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Newtone.fst"
+[29/01/2025 21:50:48]         Store preset "Patcher" - effect=1
+[29/01/2025 21:50:48]         Save "Patcher": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Patcher.fst"
+[29/01/2025 21:50:48]         Store preset "Pitcher" - effect=1
+[29/01/2025 21:50:48]         Save "Pitcher": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Pitcher.fst"
+[29/01/2025 21:50:48]         Store preset "Razer Chroma" - effect=1
+[29/01/2025 21:50:48]         Save "Razer Chroma": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Razer Chroma.fst"
+[29/01/2025 21:50:48]         Store preset "Soundgoodizer" - effect=1
+[29/01/2025 21:50:48]         Save "Soundgoodizer": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Soundgoodizer.fst"
+[29/01/2025 21:50:48]         Store preset "Transient Processor" - effect=1
+[29/01/2025 21:50:48]         Save "Transient Processor": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Transient Processor.fst"
+[29/01/2025 21:50:48]         Store preset "VFX Color Mapper" - effect=1
+[29/01/2025 21:50:48]         Save "VFX Color Mapper": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\VFX Color Mapper.fst"
+[29/01/2025 21:50:48]         Store preset "VFX Key Mapper" - effect=1
+[29/01/2025 21:50:48]         Save "VFX Key Mapper": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\VFX Key Mapper.fst"
+[29/01/2025 21:50:48]         Store preset "VFX Keyboard Splitter" - effect=1
+[29/01/2025 21:50:48]         Save "VFX Keyboard Splitter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\VFX Keyboard Splitter.fst"
+[29/01/2025 21:50:48]         Store preset "VFX Level Scaler" - effect=1
+[29/01/2025 21:50:48]         Save "VFX Level Scaler": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\VFX Level Scaler.fst"
+[29/01/2025 21:50:48]         Store preset "Vocodex" - effect=1
+[29/01/2025 21:50:48]         Save "Vocodex": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Vocodex.fst"
+[29/01/2025 21:50:48]         Store preset "Wave Candy" - effect=1
+[29/01/2025 21:50:48]         Save "Wave Candy": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Wave Candy.fst"
+[29/01/2025 21:50:48]         Store preset "ZGameEditor Visualizer" - effect=1
+[29/01/2025 21:50:48]         Save "ZGameEditor Visualizer": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\ZGameEditor Visualizer.fst"
+[29/01/2025 21:50:48]         Store preset "Krush" - effect=1
+[29/01/2025 21:50:48]         Save "Krush": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\Krush.fst"
+[29/01/2025 21:50:48]         Store preset "LockOn" - effect=1
+[29/01/2025 21:50:48]         Save "LockOn": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\LockOn.fst"
+[29/01/2025 21:50:48]         Store preset "Melodyne" - effect=1
+[29/01/2025 21:50:48]         Save "Melodyne": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\Melodyne.fst"
+[29/01/2025 21:50:48]         Store preset "PaulXStretch" - effect=1
+[29/01/2025 21:50:48]         Save "PaulXStretch": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\PaulXStretch.fst"
+[29/01/2025 21:50:48]         Store preset "TDR Nova" - effect=1
+[29/01/2025 21:50:48]         Save "TDR Nova": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\TDR Nova.fst"
+[29/01/2025 21:50:48]         Store preset "TheMasker" - effect=1
+[29/01/2025 21:50:48]         Save "TheMasker": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\TheMasker.fst"
+[29/01/2025 21:50:48]         Store preset "CamelCrusher" - effect=1
+[29/01/2025 21:50:48]         Save "CamelCrusher": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST\CamelCrusher.fst"
+[29/01/2025 21:50:48]         Store preset "Powershaper" - effect=1
+[29/01/2025 21:50:48]         Save "Powershaper": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST\Powershaper.fst"
+[29/01/2025 21:50:48]         Store preset "SPAN" - effect=1
+[29/01/2025 21:50:48]         Save "SPAN": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST\SPAN.fst"
+[29/01/2025 21:50:48]         Store preset "Youlean Loudness Meter 2" - effect=1
+[29/01/2025 21:50:48]         Save "Youlean Loudness Meter 2": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST\Youlean Loudness Meter 2.fst"
+[29/01/2025 21:50:48]         Store preset "3x Osc" - effect=0
+[29/01/2025 21:50:48]         Save "3x Osc": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\3x Osc.fst"
+[29/01/2025 21:50:48]         Store preset "Autogun" - effect=0
+[29/01/2025 21:50:48]         Save "Autogun": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Autogun.fst"
+[29/01/2025 21:50:48]         Store preset "BassDrum" - effect=0
+[29/01/2025 21:50:48]         Save "BassDrum": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\BassDrum.fst"
+[29/01/2025 21:50:48]         Store preset "BeepMap" - effect=0
+[29/01/2025 21:50:48]         Save "BeepMap": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\BeepMap.fst"
+[29/01/2025 21:50:48]         Store preset "BooBass" - effect=0
+[29/01/2025 21:50:48]         Save "BooBass": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\BooBass.fst"
+[29/01/2025 21:50:48]         Store preset "Dashboard" - effect=0
+[29/01/2025 21:50:48]         Save "Dashboard": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Dashboard.fst"
+[29/01/2025 21:50:48]         Store preset "DirectWave" - effect=0
+[29/01/2025 21:50:48]         Save "DirectWave": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\DirectWave.fst"
+[29/01/2025 21:50:48]         Store preset "Drumaxx" - effect=0
+[29/01/2025 21:50:48]         Save "Drumaxx": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Drumaxx.fst"
+[29/01/2025 21:50:48]         Store preset "Drumpad" - effect=0
+[29/01/2025 21:50:48]         Save "Drumpad": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Drumpad.fst"
+[29/01/2025 21:50:48]         Store preset "FL Keys" - effect=0
+[29/01/2025 21:50:48]         Save "FL Keys": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\FL Keys.fst"
+[29/01/2025 21:50:48]         Store preset "FL Slayer" - effect=0
+[29/01/2025 21:50:48]         Save "FL Slayer": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\FL Slayer.fst"
+[29/01/2025 21:50:48]         Store preset "FL Studio Mobile" - effect=0
+[29/01/2025 21:50:48]         Save "FL Studio Mobile": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\FL Studio Mobile.fst"
+[29/01/2025 21:50:48]         Store preset "FLEX" - effect=0
+[29/01/2025 21:50:48]         Save "FLEX": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\FLEX.fst"
+[29/01/2025 21:50:48]         Store preset "FPC" - effect=0
+[29/01/2025 21:50:48]         Save "FPC": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\FPC.fst"
+[29/01/2025 21:50:48]         Store preset "Fruit Kick" - effect=0
+[29/01/2025 21:50:48]         Save "Fruit Kick": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruit Kick.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Dance" - effect=0
+[29/01/2025 21:50:48]         Save "Fruity Dance": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Dance.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity DrumSynth Live" - effect=0
+[29/01/2025 21:50:48]         Save "Fruity DrumSynth Live": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity DrumSynth Live.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity DX10" - effect=0
+[29/01/2025 21:50:48]         Save "Fruity DX10": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity DX10.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Envelope Controller" - effect=0
+[29/01/2025 21:50:48]         Save "Fruity Envelope Controller": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Envelope Controller.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Granulizer" - effect=0
+[29/01/2025 21:50:48]         Save "Fruity Granulizer": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Granulizer.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Keyboard Controller" - effect=0
+[29/01/2025 21:50:48]         Save "Fruity Keyboard Controller": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Keyboard Controller.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Slicer" - effect=0
+[29/01/2025 21:50:48]         Save "Fruity Slicer": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Slicer.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Soundfont Player" - effect=0
+[29/01/2025 21:50:48]         Save "Fruity Soundfont Player": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Soundfont Player.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Video Player" - effect=0
+[29/01/2025 21:50:48]         Save "Fruity Video Player": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Video Player.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Voltage Controller" - effect=0
+[29/01/2025 21:50:48]         Save "Fruity Voltage Controller": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Voltage Controller.fst"
+[29/01/2025 21:50:48]         Store preset "Fruity Wrapper" - effect=0
+[29/01/2025 21:50:48]         Save "Fruity Wrapper": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Wrapper.fst"
+[29/01/2025 21:50:48]         Store preset "GMS" - effect=0
+[29/01/2025 21:50:48]         Save "GMS": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\GMS.fst"
+[29/01/2025 21:50:48]         Store preset "Harmless" - effect=0
+[29/01/2025 21:50:48]         Save "Harmless": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Harmless.fst"
+[29/01/2025 21:50:48]         Store preset "Harmor" - effect=0
+[29/01/2025 21:50:48]         Save "Harmor": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Harmor.fst"
+[29/01/2025 21:50:48]         Store preset "MIDI Out" - effect=0
+[29/01/2025 21:50:48]         Save "MIDI Out": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\MIDI Out.fst"
+[29/01/2025 21:50:48]         Store preset "MiniSynth" - effect=0
+[29/01/2025 21:50:48]         Save "MiniSynth": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\MiniSynth.fst"
+[29/01/2025 21:50:48]         Store preset "Morphine" - effect=0
+[29/01/2025 21:50:48]         Save "Morphine": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Morphine.fst"
+[29/01/2025 21:50:48]         Store preset "Ogun" - effect=0
+[29/01/2025 21:50:48]         Save "Ogun": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Ogun.fst"
+[29/01/2025 21:50:48]         Store preset "Patcher" - effect=0
+[29/01/2025 21:50:48]         Save "Patcher": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Patcher.fst"
+[29/01/2025 21:50:48]         Store preset "Plucked!" - effect=0
+[29/01/2025 21:50:48]         Save "Plucked!": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Plucked!.fst"
+[29/01/2025 21:50:48]         Store preset "PoiZone" - effect=0
+[29/01/2025 21:50:48]         Save "PoiZone": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\PoiZone.fst"
+[29/01/2025 21:50:48]         Store preset "ReWired" - effect=0
+[29/01/2025 21:50:48]         Save "ReWired": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\ReWired.fst"
+[29/01/2025 21:50:48]         Store preset "Sakura" - effect=0
+[29/01/2025 21:50:48]         Save "Sakura": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Sakura.fst"
+[29/01/2025 21:50:48]         Store preset "Sawer" - effect=0
+[29/01/2025 21:50:48]         Save "Sawer": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Sawer.fst"
+[29/01/2025 21:50:48]         Store preset "SimSynth" - effect=0
+[29/01/2025 21:50:48]         Save "SimSynth": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\SimSynth.fst"
+[29/01/2025 21:50:48]         Store preset "Slicex" - effect=0
+[29/01/2025 21:50:48]         Save "Slicex": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Slicex.fst"
+[29/01/2025 21:50:48]         Store preset "Sytrus" - effect=0
+[29/01/2025 21:50:48]         Save "Sytrus": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Sytrus.fst"
+[29/01/2025 21:50:48]         Store preset "Toxic Biohazard" - effect=0
+[29/01/2025 21:50:48]         Save "Toxic Biohazard": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Toxic Biohazard.fst"
+[29/01/2025 21:50:48]         Store preset "Transistor Bass" - effect=0
+[29/01/2025 21:50:48]         Save "Transistor Bass": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Transistor Bass.fst"
+[29/01/2025 21:50:48]         Store preset "Wasp XT" - effect=0
+[29/01/2025 21:50:48]         Save "Wasp XT": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Wasp XT.fst"
+[29/01/2025 21:50:48]         Store preset "Wasp" - effect=0
+[29/01/2025 21:50:48]         Save "Wasp": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Wasp.fst"
+[29/01/2025 21:50:48]         Store preset "Wave Traveller" - effect=0
+[29/01/2025 21:50:48]         Save "Wave Traveller": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Wave Traveller.fst"
+[29/01/2025 21:50:48]         Store preset "Ample Bass P" - effect=0
+[29/01/2025 21:50:48]         Save "Ample Bass P": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST3\Ample Bass P.fst"
+[29/01/2025 21:50:48]         Store preset "Ample Bass U" - effect=0
+[29/01/2025 21:50:48]         Save "Ample Bass U": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST3\Ample Bass U.fst"
+[29/01/2025 21:50:48]         Store preset "Ample Ethno U" - effect=0
+[29/01/2025 21:50:48]         Save "Ample Ethno U": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST3\Ample Ethno U.fst"
+[29/01/2025 21:50:49]         Store preset "Ample Guitar LP" - effect=0
+[29/01/2025 21:50:49]         Save "Ample Guitar LP": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST3\Ample Guitar LP.fst"
+[29/01/2025 21:50:49]         Store preset "Ample Guitar M" - effect=0
+[29/01/2025 21:50:49]         Save "Ample Guitar M": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST3\Ample Guitar M.fst"
+[29/01/2025 21:50:49]         Store preset "DecentSampler" - effect=0
+[29/01/2025 21:50:49]         Save "DecentSampler": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST3\DecentSampler.fst"
+[29/01/2025 21:50:49]         Store preset "Helm" - effect=0
+[29/01/2025 21:50:49]         Save "Helm": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST3\Helm.fst"
+[29/01/2025 21:50:49]         Store preset "sforzando" - effect=0
+[29/01/2025 21:50:49]         Save "sforzando": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST3\sforzando.fst"
+[29/01/2025 21:50:49]         Store preset "Sitar Renaissance" - effect=0
+[29/01/2025 21:50:49]         Save "Sitar Renaissance": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST3\Sitar Renaissance.fst"
+[29/01/2025 21:50:49]         Store preset "Sweetcase EP" - effect=0
+[29/01/2025 21:50:49]         Save "Sweetcase EP": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST3\Sweetcase EP.fst"
+[29/01/2025 21:50:49]         Store preset "Vinyl Crackles Generator" - effect=0
+[29/01/2025 21:50:49]         Save "Vinyl Crackles Generator": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST3\Vinyl Crackles Generator.fst"
+[29/01/2025 21:50:49]         Store preset "Ample Guitar LP" - effect=0
+[29/01/2025 21:50:49]         Save "Ample Guitar LP": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\Ample Guitar LP.fst"
+[29/01/2025 21:50:49]         Store preset "Ample Percussion Cloudrum" - effect=0
+[29/01/2025 21:50:49]         Save "Ample Percussion Cloudrum": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\Ample Percussion Cloudrum.fst"
+[29/01/2025 21:50:49]         Store preset "Crystal Harp" - effect=0
+[29/01/2025 21:50:49]         Save "Crystal Harp": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\Crystal Harp.fst"
+[29/01/2025 21:50:49]         Store preset "DecentSampler" - effect=0
+[29/01/2025 21:50:49]         Save "DecentSampler": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\DecentSampler.fst"
+[29/01/2025 21:50:49]         Store preset "DSK AsianZ DreamZ" - effect=0
+[29/01/2025 21:50:49]         Save "DSK AsianZ DreamZ": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\DSK AsianZ DreamZ.fst"
+[29/01/2025 21:50:49]         Store preset "DSK World StringZ" - effect=0
+[29/01/2025 21:50:49]         Save "DSK World StringZ": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\DSK World StringZ.fst"
+[29/01/2025 21:50:49]         Store preset "Dynamic Guitars" - effect=0
+[29/01/2025 21:50:49]         Save "Dynamic Guitars": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\Dynamic Guitars.fst"
+[29/01/2025 21:50:49]         Store preset "Iowa Alto Sax" - effect=0
+[29/01/2025 21:50:49]         Save "Iowa Alto Sax": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\Iowa Alto Sax.fst"
+[29/01/2025 21:50:49]         Store preset "Love-Fi 2 Lite" - effect=0
+[29/01/2025 21:50:49]         Save "Love-Fi 2 Lite": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\Love-Fi 2 Lite.fst"
+[29/01/2025 21:50:49]         Store preset "sforzando" - effect=0
+[29/01/2025 21:50:49]         Save "sforzando": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\sforzando.fst"
+[29/01/2025 21:50:49]         Store preset "Sitar Renaissanc" - effect=0
+[29/01/2025 21:50:49]         Save "Sitar Renaissanc": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\Sitar Renaissanc.fst"
+[29/01/2025 21:50:49]         Store preset "Synth1 VSTi" - effect=0
+[29/01/2025 21:50:49]         Save "Synth1 VSTi": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\Synth1 VSTi.fst"
+[29/01/2025 21:50:49]         Store preset "The Bells" - effect=0
+[29/01/2025 21:50:49]         Save "The Bells": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\The Bells.fst"
+[29/01/2025 21:50:49]         Store preset "Upright Piano 1" - effect=0
+[29/01/2025 21:50:49]         Save "Upright Piano 1": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\Upright Piano 1.fst"
+[29/01/2025 21:50:49]         Store preset "Vinyl Crackles Generator" - effect=0
+[29/01/2025 21:50:49]         Save "Vinyl Crackles Generator": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\Vinyl Crackles Generator.fst"
+[29/01/2025 21:50:49]         Store preset "vRAM ePiano" - effect=0
+[29/01/2025 21:50:49]         Save "vRAM ePiano": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\vRAM ePiano.fst"
+[29/01/2025 21:50:49]         Store preset "Zither Renaissan" - effect=0
+[29/01/2025 21:50:49]         Save "Zither Renaissan": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Generators\VST\Zither Renaissan.fst"
+[29/01/2025 21:50:49]         Store preset "kHs 3-Band EQ" - effect=1
+[29/01/2025 21:50:49]         Save "kHs 3-Band EQ": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs 3-Band EQ.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Bitcrush" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Bitcrush": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Bitcrush.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Channel Mixer" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Channel Mixer": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Channel Mixer.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Chorus" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Chorus": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Chorus.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Comb Filter" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Comb Filter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Comb Filter.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Compressor" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Compressor": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Compressor.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Delay" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Delay": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Delay.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Distortion" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Distortion": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Distortion.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Dual Delay" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Dual Delay": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Dual Delay.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Dynamics" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Dynamics": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Dynamics.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Ensemble" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Ensemble": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Ensemble.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Filter" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Filter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Filter.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Flanger" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Flanger": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Flanger.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Formant Filter" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Formant Filter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Formant Filter.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Frequency Shifter" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Frequency Shifter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Frequency Shifter.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Gain" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Gain": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Gain.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Gate" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Gate": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Gate.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Haas" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Haas": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Haas.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Ladder Filter" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Ladder Filter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Ladder Filter.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Limiter" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Limiter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Limiter.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Nonlinear Filter" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Nonlinear Filter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Nonlinear Filter.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Phase Distortion" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Phase Distortion": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Phase Distortion.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Phaser" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Phaser": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Phaser.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Pitch Shifter" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Pitch Shifter": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Pitch Shifter.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Resonator" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Resonator": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Resonator.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Reverb" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Reverb": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Reverb.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Reverser" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Reverser": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Reverser.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Ring Mod" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Ring Mod": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Ring Mod.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Shaper" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Shaper": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Shaper.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Stereo" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Stereo": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Stereo.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Tape Stop" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Tape Stop": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Tape Stop.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Trance Gate" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Trance Gate": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Trance Gate.fst"
+[29/01/2025 21:50:49]         Store preset "kHs Transient Shaper" - effect=1
+[29/01/2025 21:50:49]         Save "kHs Transient Shaper": created preset file "E:\Music\Compositions\music\FL\FL Studio\Presets\Plugin database\Installed\Effects\VST3\kHs Transient Shaper.fst"
+[29/01/2025 21:50:49]         Finished (store all presets)
+[29/01/2025 21:50:49]     Store plugin IDs
+[29/01/2025 21:50:49]     Finished (Scan - internal)
+[29/01/2025 21:50:49] Thread terminated
+[29/01/2025 21:51:01] Application stopped

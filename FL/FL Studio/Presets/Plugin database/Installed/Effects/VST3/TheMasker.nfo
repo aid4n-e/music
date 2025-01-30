@@ -1,7 +1,4 @@
 fileversion=2
-iconindex=48
-color=$40B6F6
-tip=VST3 / 64 bit
 ps_name=TheMasker
 ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST3\TheMasker.fst
 ps_files=1
