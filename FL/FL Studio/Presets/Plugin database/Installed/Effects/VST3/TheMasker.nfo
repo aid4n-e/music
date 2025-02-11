@@ -1,0 +1,15 @@
+fileversion=2
+ps_name=TheMasker
+ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST3\TheMasker.fst
+ps_files=1
+ps_file_name_0=TheMasker
+ps_file_filename_0=C:\Program Files\Common Files\VST3\TheMasker.vst3
+ps_file_plugclass_0=7
+ps_file_type_0=1
+ps_file_bitsize_0=64
+ps_file_guid_0={ABCDEF01-9182-FAEB-436D-79784C397667}
+ps_file_date_0=4676511691661390051
+ps_file_size_0=5011456
+ps_file_scanflags_0=1
+ps_file_vendorname_0=Cinemystics
+ps_file_category_0=Fx|Analyzer|Dynamics|EQ
