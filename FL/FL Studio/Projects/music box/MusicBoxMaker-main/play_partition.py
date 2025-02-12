@@ -7,7 +7,7 @@ partition = parsePartitionFile("listNotes.txt")#put your partition here
 notes = AudioSegment.from_mp3("it.mp3")#put your recording here
 
 #put the start time (in ms) of each note here
-startTimes = [4984, 5538, 6071, 6647, 7249, 7736, 8288, 8910, 9485, 9984, 10705, 11322, 11953, 12615, 13210, 13825, 14553, 15237]
+startTimes = [0, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, 10000, 11000, 12000, 13000, 14000, 15000, 16000, 17000]
 
 
 noteLength = 200 #length of each note (in ms)
