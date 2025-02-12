@@ -1,0 +1,13 @@
+run python environment with "python" in CMD
+
+import musicBoxMaker
+
+
+partition = musicBoxMaker.parsePartitionFile("listNotes.txt")
+triangles = musicBoxMaker.generateTriangleList([110,110], partition)
+musicBoxMaker.saveToSTL("fileName.stl", triangles)
+
+
+Combined into one statement:
+
+import musicBoxMaker; musicBoxMaker.saveToSTL("fileName.stl", musicBoxMaker.generateTriangleList([110,110], musicBoxMaker.parsePartitionFile("listNotes.txt"))); import cylinderGeneratorGCODE
