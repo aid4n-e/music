@@ -17,7 +17,7 @@ musicBoxMaker.saveToSTL("fileName.stl", musicBoxMaker.generateTriangleList([114.
 
 
 #adjust the parameters to adjust to your music box
-gcode = musicBoxMaker.generateGCODE(center=[114.5,95], height=20, radius=6.5, layerHeight=0.2, startZ = 1.35, endZ = 17.55, sheet=partition,start_extrusion_val=14.41425, prefix=prefix, suffix=suffix)
+gcode = musicBoxMaker.generateGCODE(center=[114.5,95], height=20, radius=6.5, layerHeight=0.2, startZ = 1.35, endZ = 17.55, sheet=partition,start_extrusion_val=14.42364, prefix=prefix, suffix=suffix)
 #save the gcode
 with open("result_cylinder.gcode", "w") as myfile:
     print("saving...")

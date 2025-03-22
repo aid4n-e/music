@@ -10,4 +10,4 @@ musicBoxMaker.saveToSTL("fileName.stl", triangles)
 
 Combined into one statement:
 
-import musicBoxMaker; musicBoxMaker.saveToSTL("fileName.stl", musicBoxMaker.generateTriangleList([110,110], musicBoxMaker.parsePartitionFile("listNotes.txt"))); import cylinderGeneratorGCODE
+import musicBoxMaker; musicBoxMaker.saveToSTL("fileName.stl", musicBoxMaker.generateTriangleList([114.5,95], musicBoxMaker.parsePartitionFile("listNotes.txt"))); import cylinderGeneratorGCODE
