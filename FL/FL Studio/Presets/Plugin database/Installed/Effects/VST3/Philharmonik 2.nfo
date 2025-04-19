@@ -1,0 +1,14 @@
+fileversion=2
+iconindex=48
+color=$40B6F6
+tip= /  bit
+ps_name=Philharmonik 2
+ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST3\Philharmonik 2.fst
+ps_files=1
+ps_file_name_0=Philharmonik 2
+ps_file_filename_0=C:\Program Files\Common Files\VST3\Philharmonik 2.vst3
+ps_file_plugclass_0=7
+ps_file_bitsize_0=64
+ps_file_date_0=4676041603161207215
+ps_file_size_0=360960
+ps_file_scanflags_0=2
