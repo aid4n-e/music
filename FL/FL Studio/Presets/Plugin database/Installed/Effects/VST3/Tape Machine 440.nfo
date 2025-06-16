@@ -1,7 +1,4 @@
 fileversion=2
-iconindex=48
-color=$40B6F6
-tip=VST3 / 64 bit
 ps_name=Tape Machine 440
 ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST3\Tape Machine 440.fst
 ps_files=1

@@ -1,7 +1,4 @@
 fileversion=2
-iconindex=48
-color=$40B6F6
-tip=VST+VST3 / 64 bit
 ps_name=TR5 EQ-PB
 ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST3\TR5 EQ-PB.fst
 ps_files=2

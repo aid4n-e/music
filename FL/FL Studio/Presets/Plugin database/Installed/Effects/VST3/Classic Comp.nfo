@@ -1,7 +1,4 @@
 fileversion=2
-iconindex=48
-color=$40B6F6
-tip=VST3 / 64 bit
 ps_name=Classic Comp
 ps_presetfilename=%FLPluginDBPath%\Installed\Effects\VST3\Classic Comp.fst
 ps_files=1
