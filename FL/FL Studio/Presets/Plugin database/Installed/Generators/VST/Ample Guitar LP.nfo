@@ -1,4 +1,7 @@
 fileversion=2
+iconindex=48
+color=$40B6F6
+tip=VST / 64 bit
 ps_name=Ample Guitar LP
 ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\Ample Guitar LP.fst
 ps_files=1

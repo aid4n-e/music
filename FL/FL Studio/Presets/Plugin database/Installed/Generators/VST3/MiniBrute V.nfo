@@ -1,0 +1,15 @@
+fileversion=2
+ps_name=MiniBrute V
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST3\MiniBrute V.fst
+ps_files=1
+ps_file_name_0=MiniBrute V
+ps_file_filename_0=C:\Program Files\Common Files\VST3\Arturia\MiniBrute V.vst3
+ps_file_plugclass_0=8
+ps_file_type_0=2
+ps_file_bitsize_0=64
+ps_file_guid_0={41727475-4156-4953-4D42-525450726F63}
+ps_file_date_0=4676523246065455329
+ps_file_size_0=25909368
+ps_file_scanflags_0=1
+ps_file_vendorname_0=Arturia
+ps_file_category_0=Instrument|Synth

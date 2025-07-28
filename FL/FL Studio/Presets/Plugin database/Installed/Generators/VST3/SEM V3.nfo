@@ -1,0 +1,15 @@
+fileversion=2
+ps_name=SEM V3
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST3\SEM V3.fst
+ps_files=1
+ps_file_name_0=SEM V3
+ps_file_filename_0=C:\Program Files\Common Files\VST3\Arturia\SEM V3.vst3
+ps_file_plugclass_0=8
+ps_file_type_0=2
+ps_file_bitsize_0=64
+ps_file_guid_0={41727475-4156-4953-5345-4D3350726F63}
+ps_file_date_0=4676523449459199181
+ps_file_size_0=26186944
+ps_file_scanflags_0=1
+ps_file_vendorname_0=Arturia
+ps_file_category_0=Instrument|Synth
