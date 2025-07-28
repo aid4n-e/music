@@ -1,0 +1,15 @@
+fileversion=2
+ps_name=Syntronik 2
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\VST\Syntronik 2.fst
+ps_files=1
+ps_file_name_0=Syntronik 2
+ps_file_filename_0=E:\Program Files\Cakewalk\Vstplugins\Syntronik 2.dll
+ps_file_plugclass_0=4
+ps_file_type_0=2
+ps_file_bitsize_0=64
+ps_file_magic_0=1400466226
+ps_file_date_0=4676518784421613671
+ps_file_size_0=39550976
+ps_file_scanflags_0=1
+ps_file_vendorname_0=IK Multimedia
+ps_file_category_0=synth
